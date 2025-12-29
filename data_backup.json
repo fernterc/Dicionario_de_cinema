@@ -1,0 +1,2482 @@
+[
+{
+    "termo":"Schemata",
+    "definicao":"Estruturas mentais que o espectador usa para processar e compreender a narrativa visual."
+},
+{
+    "termo":"Raccord",
+    "definicao":"A continuidade ou ligação lógica entre dois planos consecutivos na montagem."
+},
+{
+    "termo":"Mise-en-scène",
+    "definicao":"Tudo o que aparece diante da câmera: cenário, luz, figurino e a movimentação dos atores."
+},
+{
+    "termo":"MacGuffin",
+    "definicao":"Um objeto ou objetivo que motiva os personagens, mas é irrelevante para a audiência."
+},
+{
+    "termo":"Diegese",
+    "definicao":"O universo ficcional da narrativa, incluindo tudo o que pertence à história contada."
+},
+{
+    "termo":"Plano-sequência",
+    "definicao":"Uma tomada longa sem cortes que cobre uma ação ou sequência inteira."
+},
+{
+    "termo": "Campo",
+    "definicao": "A porção de espaço imaginário contida no interior do quadro."
+},
+{
+    "termo": "Reflexividade",
+    "definicao": "O 'efeito espelho' provocado pelo olhar do ator para a câmera, ou quando o filme mostra o próprio dispositivo."
+},
+{
+    "termo": "Salto",
+    "definicao": "Raccord entre dois planos quase idênticos, entre os quais a distância espaço-temporal é muito fraca."
+},
+{
+    "termo": "Corte seco",
+    "definicao": "Passagem de um plano a outro por uma simples colagem, sem que o raccord seja marcado por um efeito de ritmo ou por uma trucagem."
+},
+{
+    "termo": "Direto",
+    "definicao": "Técnica de filmagem onde as imagens são gravadas sem ensaios e o som é gravado simultaneamente, excluindo pós-sincronização."
+},
+{
+    "termo": "Texto",
+    "definicao": "Lugar de uma atividade significante incessante, que visa a valorização da própria prática significante em vez da simples comunicação."
+},
+{
+    "termo": "Cena",
+    "definicao": "Toda a zona de representação e o lugar imaginário onde se desenrola a ação, estendendo-se além do que é visível no plano."
+},
+{
+    "termo": "Ângulo",
+    "definicao": "A posição do quadro em relação ao objeto mostrado, podendo ser picado (alto), contrapicado (baixo) ou horizontal."
+},
+{
+    "termo": "Adereço",
+    "definicao": "Objeto utilizado por uma personagem ou colocado no cenário de um filme para compor a ambientação ou ação."
+},
+{
+    "termo":"Abstrato",
+    "definicao":"Resultante de uma operação mental que considera uma qualidade de uma coisa negligenciando as outras. Na literatura e cinema, refere-se a estilos que evitam descrever objetos, personagens ou acontecimentos concretos em favor de sensações diretas ou ideias puras."
+},
+{
+    "termo":"Ação",
+    "definicao":"(antiq.) O andar dos acontecimentos em um drama. No cinema, consiste na representação de atos realizados por seres humanos, vinculados por relações de causalidade que criam uma intriga com começo, desenvolvimento e desenlace."
+},
+{
+    "termo":"Actante",
+    "definicao":"Designa a estrutura narrativa profunda de uma unidade no seio do sistema global das ações que constituem uma narrativa. Diferencia-se de 'ator' por não ser necessariamente um ser psicológico, mas uma função actancial que pode ser preenchida por vários personagens."
+},
+{
+    "termo":"Acusmático",
+    "definicao":"Adjetivo de origem grega que caracteriza todos os sons ouvidos cuja fonte não é vista, pois está mascarada por uma tela ou situada fora do campo visual."
+},
+{
+    "termo":"Adaptação",
+    "definicao":"Prática de transpor uma obra (como um romance ou peça de teatro) para o cinema, focando em questões de especificidade da linguagem cinematográfica e na fidelidade à obra original."
+},
+{
+    "termo":"Afílmico",
+    "definicao":"Refere-se a seres ou coisas que existem positivamente na realidade usual, independentemente de qualquer relação ou destinação especial com a arte fílmica."
+},
+{
+    "termo":"Alternância",
+    "definicao":"Princípio geral de montagem que consiste na repetição regular de um plano ou grupo de planos, estabelecendo uma estrutura de base (como ABABAB) para representar perseguições ou simultaneidade temporal."
+},
+{
+    "termo":"Análise (Textual)",
+    "definicao":"Processo de decomposição, estruturação e interpretação de um filme com a intenção de chegar a uma explicação de seu funcionamento e razões de ser, podendo constituir uma atividade autônoma da crítica."
+},
+{
+    "termo":"Analogia",
+    "definicao":"Semelhança parcial entre duas coisas que não se parecem em seu aspecto geral. No cinema, refere-se ao valor analógico das imagens em evocar a realidade e à representação iconográfica."
+},
+{
+    "termo":"Ancoragem",
+    "definicao":"Função da mensagem linguística em relação à mensagem icônica que serve para 'fixar' a cadeia flutuante de significados de uma imagem, guiando a interpretação do espectador."
+},
+{
+    "termo":"Animação",
+    "definicao":"Formas de cinema nas quais o movimento aparente é produzido de maneira diferente da simples tomada de cena analógica, geralmente fotografando desenhos ou objetos um por um."
+},
+{
+    "termo":"Antropologia",
+    "definicao":"Recurso metodológico que estuda o cinema como uma máquina industrial produtora de imaginário ou como ferramenta para o estudo comparativo das culturas humanas."
+},
+{
+    "termo":"Arte",
+    "definicao":"Noção definida por três vias no cinema: institucional (aprovada por instâncias sociais), intencional (atribuída pelo artista) ou estética (relacionada ao valor artístico e provocação de sensações)."
+},
+{
+    "termo":"Ator",
+    "definicao":"Designa a pessoa que desempenha um papel na cena ou na tela, distinguindo-se entre o ator 'sincero' (que sente as emoções) e o ator 'capaz de simular' (que controla as emoções)."
+},
+{
+    "termo":"Atração",
+    "definicao":"Termo retomado por Eisenstein para designar um momento de fluxo deliberadamente violento e autônomo na montagem, visando produzir um efeito de choque no espectador."
+},
+{
+    "termo":"Audiovisual",
+    "definicao":"Designa obras que mobilizam simultaneamente imagens e sons, bem como os meios de produção e indústrias que as produzem."
+},
+{
+    "termo":"Autor",
+    "definicao":"Instância responsável pela criação da obra cinematográfica. A noção evoluiu de um conceito problemático de criação coletiva para a valorização da assinatura e estilo pessoal do diretor."
+},
+{
+    "termo":"Aventura",
+    "definicao":"Gênero que designa o que advém, o inesperado. No cinema, desenvolveu-se a partir de temas literários do século XIX, focando em ação e percursos de personagens."
+},
+{
+    "termo":"Banda imagem, banda som",
+    "definicao":"Tecnicamente, refere-se ao suporte físico que contém apenas a imagem ou o som, que, embora independentes, deslizam em sincronismo para compor o filme."
+},
+{
+    "termo":"Barroco",
+    "definicao":"Termo que conota o bizarro e a complicação, utilizado para designar uma arte muito ornamentada e extravagante, aplicada no cinema a estilos visuais rebuscados."
+},
+{
+    "termo":"Bloqueio simbólico",
+    "definicao":"Conceito proposto por Raymond Bellour para designar uma característica da narrativa cinematográfica clássica ligada à representação da figura do Pai e da Lei."
+},
+{
+    "termo":"Burlesco",
+    "definicao":"Gênero fundado na multiplicação de farsas e no encadeamento de piadas, levado à perfeição no cinema mudo por figuras como Chaplin e Keaton."
+},
+{
+    "termo":"Caligarismo",
+    "definicao":"Termo que designa a imitação dos traços formais do filme 'O Gabinete do Doutor Caligari', focado no grafismo e no desequilíbrio da imagem."
+},
+{
+    "termo":"Caligrafia",
+    "definicao":"Arte de bem formar os caracteres ou traçar uma escrita dotada formalmente de propriedades estéticas, usada para designar correntes cinematográficas focadas na pesquisa plástica."
+},
+{
+    "termo":"Câmera",
+    "definicao":"Instrumento técnico de captação de imagens, teorizado ora como um olho 'objetivo' que registra o real, ora como um instrumento subjetivo de visão e pensamento."
+},
+{
+    "termo":"Caméra-stylo (Câmera-caneta)",
+    "definicao":"Expressão de Alexandre Astruc que defende que o cinema se torna um meio de escrita tão flexível e sutil quanto a linguagem escrita, permitindo expressar o pensamento."
+},
+{
+    "termo":"Campo",
+    "definicao":"A porção de espaço tridimensional que é percebida a cada instante na imagem fílmica, limitada pelo quadro mas prolongando-se imaginariamente para fora dele."
+},
+{
+    "termo":"Caverna (Alegoria da)",
+    "definicao":"Referência ao mito de Platão utilizada para teorizar o dispositivo cinematográfico, comparando os espectadores a prisioneiros que veem sombras projetadas em uma parede."
+},
+{
+    "termo":"Cena",
+    "definicao":"Unidade de ação cinematográfica que ocorre em um mesmo lugar e tempo, preservando a continuidade dramática ou a integridade de um evento."
+},
+{
+    "termo":"Cenografia",
+    "definicao":"Arte de organizar e instalar os cenários, definindo as relações entre os personagens e a arquitetura dos lugares onde a ação se desenrola."
+},
+{
+    "termo":"Cinefilia",
+    "definicao":"Amor pelo cinema que pode se manifestar como um desejo de colecionador (neurose) ou como uma experiência cultural fundada na visão e compreensão das obras."
+},
+{
+    "termo":"Cinema mudo",
+    "definicao":"Fase do cinema caracterizada pela ausência de falas audíveis, dependendo da expressividade gestual, do aspecto visual e da montagem para narrar."
+},
+{
+    "termo":"Cinema total",
+    "definicao":"Utopia proposta por André Bazin que visava a reprodução integral da realidade, incluindo imagens, sons, relevo e até sensações olfativas."
+},
+{
+    "termo":"Cinema-verdade",
+    "definicao":"Corrente que utiliza técnicas leves de filmagem para que o cinema participe da pesquisa e da revelação da verdade dos indivíduos e do mundo."
+},
+{
+    "termo":"Cinematismo",
+    "definicao":"Neologismo de Eisenstein para designar a tendência a procurar representar o movimento em outras formas de arte, como na pintura."
+},
+{
+    "termo":"Cinematográfico",
+    "definicao":"Refere-se ao que é específico da linguagem do cinema, distinguindo o 'fato fílmico' (vida no mundo) do 'fato cinematográfico' (organização estética para o público)."
+},
+{
+    "termo":"Citação",
+    "definicao":"Reprodução textual ou visual de um enunciado preexistente dentro de um novo filme, servindo como referência, alusão ou homenagem."
+},
+{
+    "termo":"Clássico (cinema)",
+    "definicao":"Período ou estilo cinematográfico caracterizado por uma norma estética de transparência narrativa, equilíbrio e continuidade, exemplarmente associado a Hollywood até 1950."
+},
+{
+    "termo":"Código",
+    "definicao":"Sistema de correspondências e regras (como a língua ou convenções visuais) que permite a transmissão e interpretação de mensagens no cinema."
+},
+{
+    "termo":"Comédia",
+    "definicao":"Gênero cinematográfico que foca em intrigas entre personagens de baixa condição, visando o riso e geralmente concluindo com um final feliz."
+},
+{
+    "termo":"Composição",
+    "definicao":"Organização dos elementos visuais na superfície da imagem (linhas, cores, sombras) para criar uma harmonia e dirigir o olhar do espectador."
+},
+{
+    "termo":"Conotação",
+    "definicao":"Sentidos secundários ou afetivos que o espectador associa à leitura primária de uma imagem ou mensagem."
+},
+{
+    "termo":"Construção do quadro",
+    "definicao":"Processo análogo à 'mise-en-scène', referindo-se à localização dos atores e objetos no cenário e à determinação do enquadramento."
+},
+{
+    "termo":"Conteúdo",
+    "definicao":"Os fatos, conhecimentos ou ideias veiculados pela obra de arte, frequentemente oposto à 'forma' ou 'plano da expressão'."
+},
+{
+    "termo":"Contínuo (e Descontínuo)",
+    "definicao":"Relação entre o fluxo temporal constante da experiência e a produção de descontinuidades técnicas (fotogramas, cortes) necessárias para criar o filme."
+},
+{
+    "termo":"Contracampo",
+    "definicao":"Figura de decupagem que mostra o espaço oposto ao que foi visto no plano anterior, comum em diálogos para mostrar quem ouve ou responde."
+},
+{
+    "termo":"Cor",
+    "definicao":"Elemento técnico e estético que evoluiu da coloração manual para processos químicos complexos, influenciando o valor simbólico e o realismo da imagem."
+},
+{
+    "termo":"Corte seco",
+    "definicao":"Passagem direta de um plano a outro sem efeitos de transição (como fusões), marcando o ritmo e a modernidade da montagem."
+},
+{
+    "termo":"Crítica",
+    "definicao":"Exercício de examinar uma obra para determinar seu valor em relação a fins como verdade ou beleza, possuindo funções de informação e avaliação."
+},
+{
+    "termo":"Decupagem",
+    "definicao":"Fase de preparação do filme que consiste em planejar a estrutura em planos e sequências; no campo da crítica, refere-se à análise da estrutura resultante."
+},
+{
+    "termo":"Défilement",
+    "definicao":"O desenrolar físico da película no interior do projetor, criando a ilusão de movimento através da sucessão de fotogramas."
+},
+{
+    "termo":"Desconstrução",
+    "definicao":"Conceito filosófico aplicado à análise textual que visa decompor a metafísica da escrita e revelar as estruturas de significação ocultas."
+},
+{
+    "termo":"Desenquadramento",
+    "definicao":"Abordagem dinâmica do quadro onde o movimento parece resultar de um desvio em relação ao centro, salientando as bordas da imagem."
+},
+{
+    "termo":"Diegese",
+    "definicao":"O universo ficcional proposto pelo filme, incluindo a história, o tempo, o espaço e todos os elementos narrativos implicados."
+},
+{
+    "termo":"Dispositivo",
+    "definicao":"A organização material e psíquica do espetáculo cinematográfico (sala escura, projetor, tela) que condiciona a percepção do espectador."
+},
+{
+    "termo":"Distanciamento",
+    "definicao":"Efeito teórico (estimulado por Brecht) que visa criar uma distância crítica entre a obra e o espectador, evitando a identificação emocional cega."
+},
+{
+    "termo":"Documentário",
+    "definicao":"Gênero fundado na montagem de imagens e sons captados da realidade, visando restituir as aparências do mundo tal como ele é."
+},
+{
+    "termo":"Duração",
+    "definicao":"Medida temporal de um plano ou filme, que pode ser cronológica (tempo real) ou psicológica (percebida pelo espectador)."
+},
+{
+    "termo":"Efeito de realidade",
+    "definicao":"Efeito produzido em uma imagem representativa que leva o espectador a crer na existência real do que está sendo mostrado."
+},
+{
+    "termo":"Elipse",
+    "definicao":"Salto temporal na narrativa que omite certos acontecimentos para agilizar a história ou exigir que o espectador preencha os vazios."
+},
+{
+    "termo":"Enquadramento",
+    "definicao":"Operação de escolher o que entra nos limites da imagem e o ponto de vista a partir do qual a cena é registrada."
+},
+{
+    "termo":"Escrita (Escritura)",
+    "definicao":"Noção teórica que considera o cinema como um sistema de significação próprio, comparável à escrita literária mas com suas próprias leis de composição."
+},
+{
+    "termo":"Espaço",
+    "definicao":"Dimensão visual e sonora do filme, podendo ser o espaço do campo (o que se vê), o espaço da cena (unidade de ação) ou o espaço fílmico (construção mental)."
+},
+{
+    "termo":"Espectador",
+    "definicao":"Indivíduo que assiste à projeção e sobre o qual o filme exerce ações emocionais, intelectuais e psíquicas."
+},
+{
+    "termo":"Estética",
+    "definicao":"Ramo que estuda a natureza da beleza e da arte cinematográfica, focando nas formas, sensações e juízos de valor."
+},
+{
+    "termo":"Expressionismo",
+    "definicao":"Corrente artística que privilegia a expressão da subjetividade e das emoções através de contrastes de luz, cenários angulosos e interpretações intensas."
+},
+{
+    "termo":"Fábula",
+    "definicao":"A sequência cronológica e lógica dos acontecimentos de uma história, distinguindo-se da 'trama' (a ordem em que são contados)."
+},
+{
+    "termo":"Fala",
+    "definicao":"Dimensão enunciativa que utiliza a voz humana para passar a linguagem, podendo ser síncrona, em 'off' ou comentarista."
+},
+{
+    "termo":"Fantástico",
+    "definicao":"Gênero em que um acontecimento inexplicável rompe com as leis do mundo real, criando incerteza entre o natural e o sobrenatural."
+},
+{
+    "termo":"Ficção",
+    "definicao":"Forma de discurso que faz referência a personagens ou ações que só existem na imaginação de seu autor e do leitor/espectador."
+},
+{
+    "termo":"Filme",
+    "definicao":"O espetáculo gravado sobre película cinematográfica; tecnicamente, a sucessão de fotogramas que compõe a obra."
+},
+{
+    "termo":"Flashback",
+    "definicao":"Recurso narrativo que interrompe a cronologia presente para apresentar fatos ocorridos no passado."
+},
+{
+    "termo":"Fora-de-campo",
+    "definicao":"O espaço imaginário que o espectador supõe existir além dos limites visíveis do quadro, sugerido por sons, olhares ou movimentos."
+},
+{
+    "termo":"Fotogenia",
+    "definicao":"Qualidade própria das coisas e seres que a imagem cinematográfica realça, conferindo-lhes um valor estético novo através da luz e do movimento."
+},
+{
+    "termo":"Gênero",
+    "definicao":"Categorias de obras que compartilham características comuns de enredo, estilo ou temática (ex: faroeste, comédia, horror)."
+},
+{
+    "termo":"Ideologia",
+    "definicao":"Conjunto de ideias e crenças que informam a produção cinematográfica, podendo servir para manter ou contestar o status quo social."
+},
+{
+    "termo":"Ilusão",
+    "definicao":"Impressão falsa produzida pelas aparências; no cinema, refere-se à ilusão de movimento e de realidade criada pelo dispositivo."
+},
+{
+    "termo":"Imagem",
+    "definicao":"Representação visual de seres ou coisas; no cinema, é a unidade básica dotada de movimento e valor estético."
+},
+{
+    "termo":"Montagem",
+    "definicao":"Operação técnica e artística de colar planos uns aos outros em uma ordem determinada para criar ritmo, sentido e narrativa."
+},
+{
+    "termo":"Ponto de vista",
+    "definicao":"O lugar real ou imaginário a partir do qual uma cena é vista ou uma história é narrada, determinando a perspectiva do espectador."
+},
+{
+    "termo":"Raccord",
+    "definicao":"Técnica de montagem que visa garantir a continuidade visual ou lógica entre dois planos sucessivos."
+},
+{
+    "termo":"Vanguarda",
+    "definicao":"Grupos de cineastas que buscam renovar radicalmente a linguagem cinematográfica através de experimentações formais e estéticas."
+},
+{
+    "termo":"Verossimilhança",
+    "definicao":"Qualidade do que parece verdadeiro ou provável dentro das leis internas do universo ficcional do filme."
+},
+{
+    "termo": "Arte e ensaio",
+    "definicao": "Noção jurídica que define o estatuto de certas salas de cinema francesas que recebem ajuda do Estado por programar filmes de pesquisa, novidade, ou de países com produção limitada."
+},
+{
+    "termo": "Balázs (Béla)",
+    "definicao": "Crítico e teórico clássico que defendia que o cinema não encontra sua matéria na realidade, mas na leitura transformadora dela, destacando a importância da câmera e da montagem como ferramentas inventivas."
+},
+{
+    "termo": "Barthes (Roland)",
+    "definicao": "Crítico e teórico que encabeçou a semiologia estrutural; no cinema, distinguiu três níveis de significação: o informativo, o simbólico e o 'terceiro sentido' ou 'sentido obtuso', que é mais difícil de enquadrar e definir."
+},
+{
+    "termo": "Bazin (André)",
+    "definicao": "Crítico fundamental e cofundador dos Cahiers du Cinéma, que via na fotografia um 'embalsamamento do tempo' e defendia a integridade do real, condenando intervenções excessivas como a montagem que fragmenta a unidade espacial."
+},
+{
+    "termo": "Bellour (Raymond)",
+    "definicao": "Crítico e teórico que aplicou a semiologia e a psicanálise à análise de filmes, propondo o conceito de 'bloqueio simbólico' na narrativa clássica associado à figura da Lei e do Pai."
+},
+{
+    "termo": "Bordwell (David)",
+    "definicao": "Teórico americano e promotor do 'neoformalismo', que foca na análise detalhada do estilo e da linguagem cinematográfica com base em informações factuais precisas."
+},
+{
+    "termo": "Brakhage (Stanley)",
+    "definicao": "Cineasta experimental que defendeu o cinema como uma forma de visão pura, sensorial e psíquica, priorizando a aptidão interna do artista sobre a representação exterior."
+},
+{
+    "termo": "Bresson (Robert)",
+    "definicao": "Cineasta cuja teoria defende o 'cinematógrafo' como arte da relação entre imagens e sons, distinguindo-o do cinema teatral e utilizando 'modelos' (atores não profissionais) para expressar verdades interiores."
+},
+{
+    "termo": "Burch (Noël)",
+    "definicao": "Teórico que estudou a constituição do 'modo de representação dominante' e as opções estilísticas do cinema clássico, relacionando-as a estruturas ideológicas e sociais."
+},
+{
+    "termo": "Cahiers du Cinéma",
+    "definicao": "Revista francesa fundada em 1951 que foi o berço da 'política dos autores' e influenciou diversas correntes críticas, da fenomenologia ao estruturalismo e marxismo."
+},
+{
+    "termo": "Canudo (Ricciotto)",
+    "definicao": "Poeta e crítico italiano que propôs a fórmula do cinema como a 'sétima arte', vendo-o como uma síntese das artes do espaço (arquitetura, escultura, pintura) e do tempo (música, poesia, dança)."
+},
+{
+    "termo": "Cavell (Stanley)",
+    "definicao": "Filósofo que analisa o cinema como uma ontologia do real, explorando as possibilidades estéticas e metafísicas das imagens cinematográficas e sua relação com a modernidade."
+},
+{
+    "termo": "Chion (Michel)",
+    "definicao": "Teórico cuja contribuição foca na faixa sonora, desenvolvendo conceitos sobre a percepção acústica e as relações entre som e imagem, como a 'sincrese' e a 'acologia'."
+},
+{
+    "termo": "Cinema no cinema",
+    "definicao": "Tema recorrente que utiliza a própria filmagem, a história de um ator ou a descrição do mundo cinematográfico como assunto do filme, frequentemente gerando efeitos de reflexividade."
+},
+{
+    "termo": "Cinema novo",
+    "definicao": "Movimento de renovação de cinematografias nacionais (como no Brasil) que buscou novas formas estéticas e políticas em resposta ao cinema dominante e à influência da Nouvelle Vague."
+},
+{
+    "termo": "Cinematógrafo",
+    "definicao": "Designa tanto o aparelho inventado pelos irmãos Lumière quanto a concepção estética de Bresson, que opõe a escrita por imagens e sons à representação teatral."
+},
+{
+    "termo": "Cinematurgia",
+    "definicao": "Neologismo de Marcel Pagnol para defender o cinema falado como uma nova forma de arte dramática que permite restituir a autenticidade das vozes e das intenções dos atores."
+},
+{
+    "termo": "Cinétique",
+    "definicao": "Revista de cinema de vanguarda que ligava questões estéticas à política e ideologia, influenciada pelo marxismo e pela psicanálise lacaniana."
+},
+{
+    "termo": "Colin (Michel)",
+    "definicao": "Pesquisador que utilizou modelos da gramática gerativa para explicar o funcionamento do filme como um sistema discursivo dotado de regras de construção."
+},
+{
+    "termo": "Construção do gesto",
+    "definicao": "Termo de Eisenstein para a técnica da direção de ator, focada na decomposição mental das atitudes do corpo em posições expressivas."
+},
+{
+    "termo": "Construção em abismo (Mise en abyme)",
+    "definicao": "Recurso que consiste na incrustação de uma narrativa dentro de outra, ou de uma imagem dentro de outra da mesma natureza (como um filme dentro do filme)."
+},
+{
+    "termo": "Contraponto orquestral",
+    "definicao": "Teoria de montagem sonora proposta por Eisenstein e outros cineastas soviéticos, que defendia a não coincidência deliberada entre a imagem e o som para produzir novos efeitos visuais e sensoriais."
+},
+{
+    "termo": "Corpo",
+    "definicao": "Objeto central da representação cinematográfica, estudado tanto por sua analogia pictórica quanto por seu papel na ação dramática e na produção de um espaço imaginário."
+},
+{
+    "termo": "Correspondência das artes",
+    "definicao": "Conceito que busca vínculos e equivalências entre o cinema e outras artes tradicionais, como a pintura e a música, frequentemente visando elevar o estatuto artístico do filme."
+},
+{
+    "termo": "Créditos (Générique)",
+    "definicao": "Sequência de inscrições que indica o título do filme e identifica seus participantes, podendo ter funções estéticas ou simplesmente informativas."
+},
+{
+    "termo": "Criatorial",
+    "definicao": "Conceito da filmologia que situa a essência do filme no pensamento individual ou coletivo de seus criadores."
+},
+{
+    "termo": "Criminal (Filme)",
+    "definicao": "Gênero cinematográfico focado em crimes, investigações e punições, abrangendo subgêneros como o filme de gângster, o thriller e o filme noir."
+},
+{
+    "termo": "Cristalino (Regime)",
+    "definicao": "Conceito de Deleuze para o cinema moderno onde o tempo não é mais cronológico, mas apresenta uma coexistência entre a imagem atual e a imagem virtual."
+},
+{
+    "termo": "Cubista (Montagem)",
+    "definicao": "Estilo de montagem onde planos sucessivos 'recobrem' temporalmente a mesma zona do espaço, fragmentando a ação em múltiplas facetas."
+},
+{
+    "termo": "Dêitico",
+    "definicao": "Termo linguístico para marcadores (como 'aqui', 'lá', 'eu', 'tu') cujos referentes só são fixados pelas condições reais da comunicação ou da enunciação no filme."
+},
+{
+    "termo": "Deleuze (Gilles)",
+    "definicao": "Filósofo que renovou a teoria do cinema ao classificar as imagens em 'imagem-movimento' (cinema clássico) e 'imagem-tempo' (cinema moderno)."
+},
+{
+    "termo": "Demarcação",
+    "definicao": "O que separa as sequências ou segmentos autônomos de um filme, podendo ser marcada por trucagens ópticas (fusões, fechamentos de íris) ou elementos narrativos."
+},
+{
+    "termo": "Dialética",
+    "definicao": "Conceito aplicado à montagem (especialmente por Eisenstein) que vê o filme como um conflito entre fragmentos ou elementos opostos que geram uma nova síntese de sentido."
+},
+{
+    "termo": "Diferença",
+    "definicao": "Noção de análise textual onde o filme é visto como um objeto constituído por conflitos estruturais e jogos de variação plástica."
+},
+{
+    "termo": "Direção (Mise-en-scène)",
+    "definicao": "Atividade de organizar os atores, cenários e diálogos em um espaço, evoluindo para a noção de 'autor' que imprime um estilo pessoal à obra."
+},
+{
+    "termo": "Disnarrativo",
+    "definicao": "Estilo que contesta voluntariamente a narrativa tradicional, evidenciando o arbítrio do autor e quebrando a ilusão de continuidade e lógica causal."
+},
+{
+    "termo": "Divismo",
+    "definicao": "Corrente estética baseada no culto a atrizes ('divas') que encarnavam figuras femininas intensas em melodramas, comum no cinema italiano mudo."
+},
+{
+    "termo": "Drama",
+    "definicao": "Gênero intermediário entre a tragédia e a comédia; no cinema, serve para qualificar temas não cômicos que focam em conflitos humanos e sociais."
+},
+{
+    "termo": "Dulac (Germaine)",
+    "definicao": "Teórica e cineasta que defendia o 'cinema puro', estruturado por ritmos visuais e livre de influências literárias, aproximando o cinema da música."
+},
+{
+    "termo": "Dupla realidade (das Imagens)",
+    "definicao": "Conceito de que a imagem cinematográfica é simultaneamente um objeto físico (superfície/suporte) e a representação de uma cena do mundo."
+},
+{
+    "termo": "Economia",
+    "definicao": "Campo que estuda o cinema sob a ótica da produção de mercado, análise de capitais, estratégias de empresas e o impacto da indústria nos estilos cinematográficos."
+},
+{
+    "termo": "Efeito de realidade / Efeito de real",
+    "definicao": "Sensação de crença na existência do que é mostrado, produzida pela analogia da imagem e por convenções representativas aceitas pelo espectador."
+},
+{
+    "termo": "Efeito-ficção",
+    "definicao": "Estado psíquico particular produzido no espectador por filmes narrativos que utilizam a reprodução analógica para suprimir a consciência da narração em prol da diegese."
+},
+{
+    "termo": "Efeito Kulechov",
+    "definicao": "Fenômeno de montagem onde o sentido de um plano é alterado pelo plano que o sucede, demonstrando o poder da contextualização visual sobre a interpretação do espectador."
+},
+{
+    "termo": "Efeito phi",
+    "definicao": "Fenômeno psicológico que permite ao cérebro perceber movimento a partir de uma sucessão rápida de imagens estáticas projetadas."
+},
+{
+    "termo": "Efeito-tela (Effect-écran)",
+    "definicao": "Fenômeno de percepção visual que designa o deslocamento relativo de um objeto em relação a outro situado em planos diferentes."
+},
+{
+    "termo": "Efeitos especiais",
+    "definicao": "Técnicas utilizadas para criar imagens não realistas ou impossíveis de captar por reprodução direta, ocorrendo na cenografia, na tomada de cena ou na tiragem."
+},
+{
+    "termo": "Eisenstein (Serguei Mikhailovitch)",
+    "definicao": "Cineasta e teórico soviético central, proponente da montagem de atrações e da montagem intelectual, focando no conflito e no choque para produzir pensamento."
+},
+{
+    "termo": "Emoção",
+    "definicao": "Estado afetivo provocado pela obra de arte que transforma a relação do espectador com o mundo, podendo ser explorada como uma regressão ou uma adesão estética."
+},
+{
+    "termo": "Enunciação",
+    "definicao": "O ato de produção de um filme que permite identificar as instâncias que o organizam, como o narrador e os pontos de vista apresentados."
+},
+{
+    "termo": "Épico, epopeia",
+    "definicao": "Gênero focado em narrativas simbólicas de grandes sentimentos coletivos ou feitos heroicos, frequentemente simplificando ações para fins enfáticos ou patrióticos."
+},
+{
+    "termo": "Epstein (Jean)",
+    "definicao": "Teórico da 'fotogenia' que via o cinema como uma 'máquina de pensar' capaz de transfigurar a realidade através do tempo e do movimento."
+},
+{
+    "termo": "Escola",
+    "definicao": "Conjunto de artistas ou cineastas que compartilham os mesmos princípios estéticos ou se formam sob as mesmas influências teóricas e técnicas."
+},
+{
+    "termo": "Escritura",
+    "definicao": "Noção que considera o cinema como um sistema de notação visual próprio, independente da língua falada, funcionando como uma 'linguagem sem língua'."
+},
+{
+    "termo": "Espectatorial",
+    "definicao": "Neologismo que designa o plano da experiência onde ocorre a intelecção e a estruturação do universo fílmico pelo espectador."
+},
+{
+    "termo": "Especular, Especularidade",
+    "definicao": "Teoria que relaciona a tela de cinema ao 'estágio do espelho' da psicanálise, onde o espectador se identifica com a imagem projetada como uma forma de reconhecimento de si."
+},
+{
+    "termo": "Establishing shot",
+    "definicao": "Plano de conjunto no cinema clássico que situa o espectador no espaço da cena antes do início da ação detalhada."
+},
+{
+    "termo": "Estilo",
+    "definicao": "Expressão da liberdade individual ou coletiva do cineasta, manifestada através de escolhas técnicas e formais recorrentes que caracterizam sua obra."
+},
+{
+    "termo": "Estrutural (cinema)",
+    "definicao": "Tipo de cinema experimental que foca na repetição e em estruturas temporais rigorosas, como na montagem métrica."
+},
+{
+    "termo": "Estruturalismo",
+    "definicao": "Método de análise que busca as estruturas ocultas e as regras de contraste (como na linguística de Saussure) que organizam o sentido do filme."
+},
+{
+    "termo": "Expandido (Cinema)",
+    "definicao": "Práticas cinematográficas que vão além da projeção tradicional em salas, envolvendo performances, happenings e múltiplas projeções."
+},
+{
+    "termo": "Experimental",
+    "definicao": "Cinema que se afasta das normas industriais e narrativas para explorar novas possibilidades visuais, sonoras e figurativas."
+},
+{
+    "termo": "Expressão",
+    "definicao": "Qualidade de uma produção que faz aparecer um sentido ou valor de afeto através de traços formais, luz ou cores."
+},
+{
+    "termo": "Êxtase",
+    "definicao": "Termo de Eisenstein para designar o momento em que a intensidade emocional da montagem tira o espectador de si, levando-o a uma adesão emocional forte."
+},
+{
+    "termo": "Falso-raccord",
+    "definicao": "Quebra na continuidade visual ou lógica entre planos, utilizada propositalmente no cinema moderno para romper com a transparência clássica."
+},
+{
+    "termo": "Fantasia (Fantasme)",
+    "definicao": "Cenário imaginário onde o desejo do sujeito se realiza; no cinema, relaciona-se à forma como o espectador se projeta na ficção."
+},
+{
+    "termo": "Faroeste (Western)",
+    "definicao": "Gênero americano clássico focado na fronteira e na lei, frequentemente utilizado para discutir a história e a fundação da nação."
+},
+{
+    "termo": "Fascinação",
+    "definicao": "Poder de absorção do espetáculo cinematográfico que cativa o olhar do espectador, ligando-se a mecanismos de identificação profunda."
+},
+{
+    "termo": "Faure (Élie)",
+    "definicao": "Historiador da arte que via o cinema como o triunfo da criação coletiva e uma nova forma de 'plástica em movimento'."
+},
+{
+    "termo": "Feminismo",
+    "definicao": "Abordagem crítica que analisa a representação da mulher e o papel do olhar masculino no cinema, buscando desconstruir estereótipos patriarcais."
+},
+{
+    "termo": "Fenomenologia",
+    "definicao": "Reflexão sobre o cinema focada na experiência vivida e na relação direta entre o pensamento e os objetos mostrados na tela."
+},
+{
+    "termo": "Fetiche, Fetichismo",
+    "definicao": "Na psicanálise do cinema, refere-se ao investimento de desejo em objetos ou partes do corpo que substituem a totalidade, ou à própria crença na ilusão cinematográfica."
+},
+{
+    "termo": "Figura",
+    "definicao": "Elemento visual que se destaca na representação, dotado de autonomia e capaz de gerar sentidos metafóricos ou simbólicos."
+},
+{
+    "termo": "Figuração",
+    "definicao": "O processo de dar forma visível a uma ideia ou narrativa, situando-se entre a mimesis (imitação) e a invenção plástica."
+},
+{
+    "termo": "Figural",
+    "definicao": "Princípio original de significação visual que não depende da linguagem verbal e foca na potência da imagem em si."
+},
+{
+    "termo": "Figurativo",
+    "definicao": "Estilo de representação que mantém a semelhança com a forma dos objetos e pessoas do mundo real."
+},
+{
+    "termo": "Filmofânico",
+    "definicao": "Refere-se a tudo o que ocorre no momento da projeção pública do filme, como a recepção e o som na sala."
+},
+{
+    "termo": "Filmográfico",
+    "definicao": "Diz respeito aos elementos registrados fisicamente na película e que podem ser analisados independentemente da projeção."
+},
+{
+    "termo": "Filmologia",
+    "definicao": "Disciplina que busca o estudo científico do cinema, separando a análise estética da abordagem sociológica ou psicológica."
+},
+{
+    "termo": "Filosofia do cinema",
+    "definicao": "Reflexão crítica sobre a natureza do cinema, sua relação com o conhecimento, com o real e com a percepção humana."
+},
+{
+    "termo": "Focalização",
+    "definicao": "Técnica narrativa que determina o ponto de vista ou o nível de informação que o narrador possui em relação aos personagens."
+},
+{
+    "termo": "Forma",
+    "definicao": "Princípio de organização da expressão que dá unidade e sentido à obra, distinguindo-se do conteúdo mas sendo indissociável dele."
+},
+{
+    "termo": "Formalismo",
+    "definicao": "Escola que prioriza o estudo dos procedimentos técnicos e estéticos ('como se conta') sobre o conteúdo temático da obra."
+},
+{
+    "termo": "Fotografia",
+    "definicao": "Base técnica do cinema que registra imagens unitárias (fotogramas), fundamentando a ontologia realista da imagem cinematográfica."
+},
+{
+    "termo": "Fragmento",
+    "definicao": "A unidade mínima de montagem para Eisenstein, que vê no plano um elemento de um sistema maior que só ganha sentido no conjunto."
+},
+{
+    "termo": "Fusão",
+    "definicao": "Efeito técnico de transição onde uma imagem desaparece enquanto outra aparece simultaneamente, criando uma ligação fluida entre cenas."
+},
+{
+    "termo": "Futurismo",
+    "definicao": "Movimento que celebrou a máquina, a velocidade e a tecnologia, vendo no cinema o meio ideal para expressar o dinamismo moderno."
+},
+{
+    "termo": "Gag",
+    "definicao": "História engraçada ou parte de um diálogo improvisado por um ator; no cinema, caracteriza-se pela resolução incongruente e surpreendente de uma situação que mobiliza a agressividade ou o burlesco."
+},
+{
+    "termo": "Gerativa (Linguística)",
+    "definicao": "Conjunto de teorias que concebem a língua como uma produtividade infinita a partir de meios finitos, aplicada ao cinema para entender o filme como uma reescritura de estruturas elementares."
+},
+{
+    "termo": "Gestalt",
+    "definicao": "Teoria da forma que postula que a percepção e os processos psíquicos partem das formas ou estruturas consideradas dados primeiros, funcionando como um ato global e não apenas uma soma de elementos."
+},
+{
+    "termo": "Gore",
+    "definicao": "Palavra inglesa que designa o sangue derramado; no cinema, refere-se a uma categoria de horror focada na figuração do corpo através de transformações da substância orgânica."
+},
+{
+    "termo": "Gramática",
+    "definicao": "Estudo sistemático dos elementos constitutivos de uma língua; no cinema, foi transposta para designar o cálculo da criação de sentido e as regras de pontuação e léxico audiovisual."
+},
+{
+    "termo": "Grande sintagmática",
+    "definicao": "Estudo da sequência das unidades presentes na banda imagem de filmes narrativos clássicos, agrupando-as em tipos de segmentos autônomos."
+},
+{
+    "termo": "Grierson (John)",
+    "definicao": "Produtor e cineasta inglês que inventou o documentário moderno, vendo o cinema como um instrumento de expressão social, ideológica e política."
+},
+{
+    "termo": "Harmônica (Montagem)",
+    "definicao": "Tipo de construção fílmica onde a montagem é orientada por um tema único e emocional, visando produzir uma sensação sentida pelo espectador em vez de apenas intelectual."
+},
+{
+    "termo": "Hermenêutica",
+    "definicao": "Ciência que analisa e explica textos para reconstituir o sentido intencional de uma obra, levando em conta o contexto cultural e a psicologia do autor."
+},
+{
+    "termo": "Hipnose",
+    "definicao": "Fenômeno de sugestão ligado à projeção cinematográfica, onde o dispositivo (sala escura e imobilidade) favorece um estado de sobrepercepção e identificação narcísica."
+},
+{
+    "termo": "História",
+    "definicao": "Em narratologia, é o enunciado que se caracteriza pela supressão das marcas de enunciação, parecendo que os acontecimentos se contam por si sós, comum na narrativa clássica."
+},
+{
+    "termo": "História (do cinema)",
+    "definicao": "Disciplina que analisa a sucessão temporal dos acontecimentos, invenções técnicas, obras e autores que determinam a evolução do cinema como arte e indústria."
+},
+{
+    "termo": "Hitchcock (Alfred)",
+    "definicao": "Diretor e teórico que utilizou a direção como instrumento para cativar o espectador, focando no suspense, na dilatação do tempo e no controle das intensidades emocionais."
+},
+{
+    "termo": "Ícone",
+    "definicao": "Signo que possui uma relação de semelhança perceptiva (visual, auditiva ou gestual) com o objeto que representa, fundamentando a analogia no cinema."
+},
+{
+    "termo": "Iconografia",
+    "definicao": "Estudo das representações de um objeto determinado e sua extensão no campo das artes representativas, como a pintura e a fotografia aplicadas ao cinema."
+},
+{
+    "termo": "Identificação",
+    "definicao": "Processo psicológico onde o espectador se assemelha a um personagem da ficção, investindo afetos e reconhecendo-se na situação apresentada pela decupagem."
+},
+{
+    "termo": "Imagem-ação",
+    "definicao": "Modalidade da imagem-movimento que corresponde à figuração do ato ou comportamento, característica do cinema de realismo, documentário ou faroeste."
+},
+{
+    "termo": "Imagem-afeição",
+    "definicao": "Qualidade da imagem ligada ao rosto em primeiro plano, que produz uma nova qualidade de sentimento fixo e intenso."
+},
+{
+    "termo": "Imagem mental",
+    "definicao": "Representação psíquica com conteúdo análogo ao de uma percepção, funcionando como objeto de pensamento, memória ou sonho dentro da narrativa."
+},
+{
+    "termo": "Imagem-movimento",
+    "definicao": "Conceito de Deleuze para a imagem cinematográfica que é movimento por si só, classificando o cinema clássico através de suas variações (percepção, afeição, ação)."
+},
+{
+    "termo": "Imagem-tempo",
+    "definicao": "Imagem fílmica do pós-classicismo caracterizada pela ruptura dos vínculos sensório-motores e por um tempo não estritamente cronológico."
+},
+{
+    "termo": "Imaginário",
+    "definicao": "Campo da imaginação criativa e sistema de significados que o cinema produz como substituto do mundo real, ligado a identificações profundas do sujeito."
+},
+{
+    "termo": "Implant",
+    "definicao": "Técnica de roteiro que consiste no estabelecimento antecipado de um detalhe ou personagem que será útil mais tarde para a lógica da intriga."
+},
+{
+    "termo": "Impressão de realidade",
+    "definicao": "Efeito produzido por filmes narrativos que leva o espectador a aceitar as imagens simuladas como representações críveis do mundo."
+},
+{
+    "termo": "Indireto livre",
+    "definicao": "Forma estilística onde o autor coloca na boca de um personagem seus próprios pensamentos, criando uma visão de mundo subjetiva e poética."
+},
+{
+    "termo": "Inserções",
+    "definicao": "Introdução de um elemento estrangeiro em uma continuidade, como um letreiro ou um plano detalhe que interrompe o fluxo para fornecer informação ou ênfase."
+},
+{
+    "termo": "Instituição",
+    "definicao": "Conjunto de princípios e leis que regem a organização econômica e social da produção cinematográfica e sua relação com o público."
+},
+{
+    "termo": "Intertexto",
+    "definicao": "Relação que diferentes enunciados mantêm entre si, manifestada através de citações, plágios, paródias ou alusões a obras anteriores."
+},
+{
+    "termo": "Intervalo",
+    "definicao": "Distância entre duas imagens sucessivas, agindo como medida de movimento e diferença que gera a significação e a emoção na montagem."
+},
+{
+    "termo": "Intriga",
+    "definicao": "O encadeamento lógico e dramático dos fatos e ações que desemboca no desenlace de uma obra de ficção."
+},
+{
+    "termo": "Kulechov (Lev)",
+    "definicao": "Cineasta russo pioneiro no estudo das leis da montagem, demonstrando como a ordem dos planos altera a percepção do espectador sobre o conteúdo."
+},
+{
+    "termo": "Lugar",
+    "definicao": "Fragmento imaginário e representado de um espaço, definido de acordo com certas regras convencionais de perspectiva e enquadramento."
+},
+{
+    "termo": "Marxismo",
+    "definicao": "Doutrina que analisa o cinema como parte da superestrutura ideológica, condicionada pela economia e pelas relações de produção industrial."
+},
+{
+    "termo": "Material, matéria",
+    "definicao": "Substância física da obra (película, pigmentos, luz) que o artista escolhe e organiza para criar um sistema plástico e semântico."
+},
+{
+    "termo": "Melodrama",
+    "definicao": "Gênero focado em ações intensas, conflitos morais e personagens-tipo, visando provocar emoções fortes através de situações de rapto, perseguição ou injustiça."
+},
+{
+    "termo": "Metáfora",
+    "definicao": "Figura de retórica baseada na transferência de uma noção para outra, permitindo que objetos ou planos substituam conceitos abstratos no filme."
+},
+{
+    "termo": "Mimesis",
+    "definicao": "Imitação representativa da realidade; no cinema, refere-se à analogia visual e à conformidade do universo ficcional com as leis do mundo real."
+},
+{
+    "termo": "Mostração",
+    "definicao": "Primeiro grau da instância narrativa que consiste em apresentar uma ação em atos através dos movimentos de atores e da câmera."
+},
+{
+    "termo": "Música",
+    "definicao": "Organização sonora que serve como essência metafórica do filme, podendo ilustrar situações dramáticas ou criar atmosferas autônomas em relação à imagem."
+},
+{
+    "termo": "Naturalismo",
+    "definicao": "Estilo que busca descrever a sociedade e o homem de maneira objetiva e detalhada, frequentemente focando em aspectos sociais e comportamentais crus."
+},
+{
+    "termo": "Neo-realismo",
+    "definicao": "Movimento cinematográfico que prioriza filmar a realidade sem estilizações excessivas, frequentemente utilizando cenários reais e atores não profissionais."
+},
+{
+    "termo": "Off",
+    "definicao": "Abreviatura de 'off screen'; designa o som cuja fonte imaginária está situada fora do campo visual captado pela câmera."
+},
+{
+    "termo": "Ontologia",
+    "definicao": "Parte da filosofia que estuda o ser da imagem cinematográfica e sua capacidade intrínseca de revelar ou 'embalsamar' a realidade."
+},
+{
+    "termo": "Orgânico",
+    "definicao": "Metáfora que descreve um filme como uma organização comparável à dos seres vivos, onde as partes (planos) estão harmoniosamente ligadas ao todo."
+},
+{
+    "termo": "Paródia",
+    "definicao": "Imitação cômica de uma obra séria ou de um gênero cinematográfico, produzindo um efeito de distanciamento através do riso."
+},
+{
+    "termo": "Primeiro plano",
+    "definicao": "Escala de plano que destaca um objeto ou o rosto de um personagem, ocupando a maior parte do quadro para enfatizar a expressão ou o detalhe."
+},
+{
+    "termo": "Profundidade de campo",
+    "definicao": "Zona de nitidez que se estende à frente e atrás do ponto de foco principal, permitindo que vários planos da cena sejam vistos com clareza simultaneamente."
+},
+{
+    "termo": "Projeção",
+    "definicao": "Fenômeno luminoso que transporta a imagem da película para uma tela; psicanaliticamente, refere-se ao ato do espectador de projetar seus desejos e consciência na obra."
+},
+{
+    "termo": "Signo",
+    "definicao": "Percepção que determina uma informação sobre algo; no cinema, pode ser visual (imagem), auditivo (som) ou gráfico (letreiros), remetendo a um significado."
+},
+{
+    "termo": "Trucagem",
+    "definicao": "Manipulação técnica na produção de um filme que visa mostrar algo que não existiu na realidade física, criando efeitos especiais ou ilusões visuais."
+},
+{
+    "termo": "Denotação",
+    "definicao": "Em semiótica, corresponde ao nível literal da mensagem ou ao sentido estrito de uma palavra ou imagem, definido pela supressão de toda subjetividade ou conotação."
+},
+{
+    "termo": "Descrição",
+    "definicao": "Um dos gestos mais simples da análise de filme que consiste em um relatório verbal mais ou menos completo daquilo que está presente na obra visual."
+},
+{
+    "termo": "Direto",
+    "definicao": "Expressão que designa uma técnica de filmagem e um estilo documental surgido na década de 1960, priorizando a gravação simultânea de som e imagem e a improvisação."
+},
+{
+    "termo": "Discurso",
+    "definicao": "Expressão verbal do pensamento gravada por imagem e som, caracterizando-se como um processo de enunciação singular que atualiza a 'língua' cinematográfica para um ouvinte."
+},
+{
+    "termo": "Escala de planos",
+    "definicao": "Nomenclatura que relaciona a distância da câmera ao objeto filmado com o tamanho aparente desse objeto no quadro, variando do plano de conjunto ao primeiro plano."
+},
+{
+    "termo": "Especificidade",
+    "definicao": "Busca teórica pela natureza artística própria do cinema, realizada sob pontos de vista estéticos (reivindicação de artisticidade) e semióticos (estudo dos meios de expressão)."
+},
+{
+    "termo": "Fatores de diferenciação",
+    "definicao": "Elementos que distinguem a percepção da imagem de filme da realidade física, como o enquadramento, a ausência de som e a mobilidade da câmera."
+},
+{
+    "termo": "Fílmico",
+    "definicao": "Refere-se à obra projetada diante de um público, sendo considerado como a 'mensagem' ou o discurso cinematográfico de um ponto de vista estético e perceptivo."
+},
+{
+    "termo": "Fotograma",
+    "definicao": "A imagem unitária de filme tal como registrada na película; embora o espectador perceba o movimento, a análise teórica pode isolá-los para estudar a unidade mínima do filme."
+},
+{
+    "termo": "Frampton (Hollis)",
+    "definicao": "Cineasta experimental e fotógrafo que centrou sua reflexão na rejeição da narração e na construção de estruturas lógicas complexas para a compreensão das imagens."
+},
+{
+    "termo": "Geografia criadora",
+    "definicao": "Técnica de montagem que consiste em reunir planos de lugares diferentes para criar uma representação espacial unitária e convincente na tela."
+},
+{
+    "termo": "Godard (Jean-Luc)",
+    "definicao": "Cineasta cujos textos e filmes influenciaram a teoria do cinema ao propor um retorno ao real, o uso do discurso verbal e a exploração da imagem como algo que circula ou se remonta."
+},
+{
+    "termo": "Impressionismo",
+    "definicao": "Tendência do cinema francês que buscava expressar sentimentos e estados da alma através do jogo da câmera, da luz e de ritmos visuais, priorizando a subjetividade."
+},
+{
+    "termo": "Jump cut",
+    "definicao": "Tipo de raccord ou corte brusco entre planos quase idênticos que gera uma descontinuidade espacial ou temporal visível, comum no cinema moderno."
+},
+{
+    "termo": "Junção",
+    "definicao": "Termo de Robert Bresson para designar a articulação de um plano ao seguinte, evitando a 'corrida atrás da poesia' e focando na precisão da elipse."
+},
+{
+    "termo": "Kracauer (Siegfried)",
+    "definicao": "Teórico que defendia o cinema como uma extensão da fotografia, com vocação para registrar e revelar a realidade física em seu aspecto transitório e efêmero."
+},
+{
+    "termo": "Laffay (Albert)",
+    "definicao": "Precursor da narratologia fílmica que propôs a ideia de uma lógica interna que atravessa o filme, definindo-o como um 'mostrador de imagens'."
+},
+{
+    "termo": "Leitura",
+    "definicao": "Ato de analisar e interpretar o filme em sua materialidade, ligando-se às suas microestruturas e relações entre espaços e durações."
+},
+{
+    "termo": "Letrismo",
+    "definicao": "Movimento de vanguarda que aplicou teorias poéticas ao cinema, rompendo o sincronismo do som e da imagem e intervindo diretamente na película física."
+},
+{
+    "termo": "Lexia",
+    "definicao": "Unidade de significação em uma análise textual, sendo um segmento do filme decupado pelo analista para salientar efeitos de significação específicos."
+},
+{
+    "termo": "Lindsay (Vachel)",
+    "definicao": "Um dos primeiros defensores da ideia do cinema como uma das belas-artes, comparando-o à pintura e à escultura em movimento em vez de ao teatro."
+},
+{
+    "termo": "Linguagem cinematográfica",
+    "definicao": "Noção de que o cinema funciona como um meio de comunicação dotado de sentido, comparável à língua mas operando através de códigos visuais e sonoros próprios."
+},
+{
+    "termo": "Lyotard (Jean-François)",
+    "definicao": "Filósofo que analisou o cinema sob a ótica do desejo e das pulsões, propondo o conceito de 'a-cinema' em oposição às estruturas narrativas tradicionais."
+},
+{
+    "termo": "Macmahonismo",
+    "definicao": "Corrente crítica francesa que defendia uma 'política dos autores' extremista, valorizando a estética da 'pura' direção, especialmente no cinema americano."
+},
+{
+    "termo": "Maneirismo",
+    "definicao": "Estilo cinematográfico que busca refinar efeitos significantes através de deformações, assimetrias e uma complacência com a distorção formal."
+},
+{
+    "termo": "Matérias da expressão",
+    "definicao": "Designa as substâncias físicas (imagens, sons, escrita) que cada linguagem cinematográfica organiza para produzir sentido e tipologias."
+},
+{
+    "termo": "Metonímia",
+    "definicao": "Figura de retórica que substitui um termo por outro com base em uma relação de contiguidade, como a causa pelo efeito ou o continente pelo conteúdo."
+},
+{
+    "termo": "Métrica",
+    "definicao": "Conceito de montagem que se baseia nos comprimentos materiais dos planos, organizando-os segundo proporções matemáticas ou rítmicas."
+},
+{
+    "termo": "Metz (Christian)",
+    "definicao": "Principal teórico da semiologia do cinema, que estudou o filme como um sistema de signos e códigos, buscando as regras de sua 'gramática' visual."
+},
+{
+    "termo": "Mitry (Jean)",
+    "definicao": "Crítico e teórico que buscou sintetizar a estética e a psicologia do cinema, analisando o ritmo das imagens e a estrutura do pensamento cinematográfico."
+},
+{
+    "termo": "Modalidade",
+    "definicao": "Categoria da enunciação que qualifica o ato cinematográfico como possível, impossível, contingente ou necessário."
+},
+{
+    "termo": "Modelo",
+    "definicao": "Conceito de Bresson para designar pessoas que não interpretam como atores tradicionais, mas que apenas 'são' diante da câmera, revelando verdades interiores."
+},
+{
+    "termo": "Moderno (Cinema)",
+    "definicao": "Estilo que rompe com a transparência clássica e a linearidade narrativa, enfatizando a subjetividade do autor e a autonomia da imagem."
+},
+{
+    "termo": "Modo de representação",
+    "definicao": "Expressão que designa o conjunto de opções estilísticas e técnicas (enquadramento, montagem, luz) que definem um período histórico do cinema."
+},
+{
+    "termo": "Monólogo interior",
+    "definicao": "Recurso narrativo que tenta representar o fluxo de pensamento de um personagem, sendo por vezes expresso pela voz em off ou pela montagem."
+},
+{
+    "termo": "Montagem intelectual",
+    "definicao": "Conceito de Eisenstein que visa produzir ideias abstratas no espectador através da justaposição deliberada de imagens que geram conflito semântico."
+},
+{
+    "termo": "Montagem proibida",
+    "definicao": "Regra teórica de Bazin que condena o uso da montagem em cenas onde a essência de um evento depende da presença simultânea de dois ou mais fatores no espaço."
+},
+{
+    "termo": "Morin (Edgar)",
+    "definicao": "Sociólogo que estudou o cinema como uma máquina industrial produtora de imaginário, ligando a imagem cinematográfica a necessidades antropológicas profundas."
+},
+{
+    "termo": "Mostrador de imagens (Grand imagier)",
+    "definicao": "Conceito de Albert Laffay para designar o foco virtual de enunciação que organiza a narrativa cinematográfica."
+},
+{
+    "termo": "Movimento aparente",
+    "definicao": "Fenômeno psicológico e fisiológico onde a sucessão rápida de imagens estáticas é percebida pelo cérebro como um fluxo contínuo."
+},
+{
+    "termo": "Movimento de câmera",
+    "definicao": "Deslocamentos físicos do aparelho de captação (travelling, panorâmica, grua) que permitem explorar o espaço e alterar o ponto de vista."
+},
+{
+    "termo": "Münsterberg (Hugo)",
+    "definicao": "Psicólogo pioneiro que analisou o cinema como uma arte que adapta o mundo físico às leis dos processos mentais e da atenção."
+},
+{
+    "termo": "Nacional (Cinema)",
+    "definicao": "Conceito que agrupa a produção cinematográfica de um país como expressão de sua cultura, história e identidade perante o mundo."
+},
+{
+    "termo": "Não encenado (Cinema)",
+    "definicao": "Designação para formas de cinema que registram a realidade sem o uso de atores ou roteiros ficcionais tradicionais."
+},
+{
+    "termo": "Narração",
+    "definicao": "O ato e a técnica de contar uma história no cinema, envolvendo a instância que organiza os fatos e a relação entre o narrador e os personagens."
+},
+{
+    "termo": "Narratologia",
+    "definicao": "Disciplina que estuda as leis da narrativa, analisando como o cinema constrói relatos através de imagens, sons e estruturas temporais."
+},
+{
+    "termo": "Noir (Filme)",
+    "definicao": "Gênero americano clássico marcado por temas criminais, pessimismo, sombras intensas e personagens moralmente ambíguos."
+},
+{
+    "termo": "Obraznost’",
+    "definicao": "Termo russo que designa o caráter de imagem de uma representação, conferindo-lhe um valor simbólico e metafórico além do literal."
+},
+{
+    "termo": "Observador invisível",
+    "definicao": "Ideal do cinema clássico onde a câmera funciona como um olhar exterior onividente que registra os fatos sem denunciar sua presença."
+},
+{
+    "termo": "Obtuso (Sentido)",
+    "definicao": "Conceito de Roland Barthes para um nível de significação visual que escapa ao informativo e ao simbólico, sendo um 'resíduo' puramente estético."
+},
+{
+    "termo": "Ocularização",
+    "definicao": "Relação entre o que a câmera mostra e o que um personagem supostamente está vendo dentro da diegese."
+},
+{
+    "termo": "Olhar",
+    "definicao": "Atitude ativa e subjetiva do espectador em relação à imagem, sendo teorizado como um instrumento de desejo, controle ou identificação."
+},
+{
+    "termo": "Outro campo",
+    "definicao": "Designação para o espaço fora-de-quadro como um lugar de troca simbólica de olhares entre o espectador e o universo fílmico."
+},
+{
+    "termo": "Pantomima",
+    "definicao": "Representação teatral baseada puramente em gestos e mímica, que serviu de base estética para a expressividade dos atores no cinema mudo."
+},
+{
+    "termo": "Paradigma",
+    "definicao": "Em semiótica, é o conjunto de unidades de linguagem que podem ser escolhidas para ocupar uma posição na cadeia narrativa, funcionando por substituição."
+},
+{
+    "termo": "Papel (Rôle)",
+    "definicao": "Parte do texto que deve dizer um ator; designa uma categoria de personagens ligada a uma situação ou conduta social determinada."
+},
+{
+    "termo": "Parâmetro, paramétrico",
+    "definicao": "Termo de origem matemática usado para designar os fatores constantes que determinam funções de diversas variáveis, aplicado à análise de estilos cinematográficos."
+},
+{
+    "termo": "Pasolini (Pier Paolo)",
+    "definicao": "Escritor e cineasta que propôs o cinema como uma 'língua escrita da realidade', defendendo a existência de uma gramática visual baseada em 'im-signos'."
+},
+{
+    "termo": "Patético",
+    "definicao": "O que desperta os sentimentos violentos do espectador através da intensidade da ação ou da representação de relações humanas dramáticas."
+},
+{
+    "termo": "Pensamento",
+    "definicao": "No cinema, refere-se à função de controle da invenção formal e à capacidade da obra de engendrar conceitos através da montagem e da direção."
+},
+{
+    "termo": "Percepção",
+    "definicao": "Organização das sensações brutas produzidas pelos órgãos dos sentidos que permite ao espectador apreender, interpretar e reagir ao filme."
+},
+{
+    "termo": "Personagem",
+    "definicao": "Ser fictício encarnado por um ator, distinguindo-se entre o 'ser' (seus traços físicos e psíquicos) e o 'actante' (sua função na estrutura narrativa)."
+},
+{
+    "termo": "Perspectiva",
+    "definicao": "Transformação geométrica que projeta o espaço tridimensional em uma superfície plana, simulando a profundidade e a visão humana do real."
+},
+{
+    "termo": "Perspectiva temporal",
+    "definicao": "Escolha de um ponto de vista temporal a partir do qual os acontecimentos de uma narrativa são observados e representados na tela."
+},
+{
+    "termo": "Pertinência",
+    "definicao": "Conceito linguístico que indica que o sentido de um enunciado cinematográfico só é compreendido sob certos eixos e regularidades contextuais."
+},
+{
+    "termo": "Pintura",
+    "definicao": "Arte que influenciou profundamente o cinema em termos de enquadramento, iluminação e cor, servindo como modelo de legitimidade artística."
+},
+{
+    "termo": "Plano",
+    "definicao": "Unidade básica do filme compreendida entre duas mudanças de tomada; refere-se também à escala de distância entre a câmera e o objeto."
+},
+{
+    "termo": "Plano-sequência",
+    "definicao": "Plano longo e articulado que representa o equivalente de uma sequência inteira sem a utilização de cortes de montagem."
+},
+{
+    "termo": "Plástico",
+    "definicao": "Termo que qualifica as artes que visam elaborar formas visuais, distinguindo no cinema os elementos constitutivos da imagem e sua organização."
+},
+{
+    "termo": "Poesia (Cinema de)",
+    "definicao": "Conceito proposto por Pasolini para designar obras onde a presença da câmera e o estilo pessoal do autor são evidentes, assemelhando-se à subjetividade lírica."
+},
+{
+    "termo": "Poética",
+    "definicao": "Ramo da teoria que estuda as normas, regras e estilos de criação das obras cinematográficas, focando em como elas são compreendidas."
+},
+{
+    "termo": "Política dos autores",
+    "definicao": "Teoria crítica que atribui a responsabilidade artística e a paternidade intelectual de um filme unicamente ao seu diretor."
+},
+{
+    "termo": "Polissemia",
+    "definicao": "Propriedade de um signo ou enunciado audiovisual de possuir várias significações simultâneas, dependendo da interpretação do espectador."
+},
+{
+    "termo": "Política e cinema",
+    "definicao": "Estudo das relações entre o poder e a produção cinematográfica, analisando o cinema como ferramenta de propaganda ou de contestação social."
+},
+{
+    "termo": "Pós-moderno",
+    "definicao": "Tendência estética caracterizada pelo fim das grandes narrativas, pelo ecletismo de estilos e pelo uso intensivo de citações e paródias intertextuais."
+},
+{
+    "termo": "Pragmática",
+    "definicao": "Consideração do ato de linguagem cinematográfica em relação aos seus produtores, ao contexto social e às reações do público."
+},
+{
+    "termo": "Pré-cinema",
+    "definicao": "História das invenções e práticas visuais que antecederam e possibilitaram o surgimento do cinematógrafo dos irmãos Lumière."
+},
+{
+    "termo": "Presença",
+    "definicao": "Qualidade do material icônico que faz com que o que é mostrado na tela pareça estar realmente presente diante do espectador no momento da projeção."
+},
+{
+    "termo": "Primitivo (cinema)",
+    "definicao": "Fase inicial da história do cinema (geralmente até 1915) que operava sob normas estéticas e técnicas diferentes do cinema clássico dominante."
+},
+{
+    "termo": "Psicanálise",
+    "definicao": "Disciplina aplicada ao cinema para analisar o filme como uma produção imaginária análoga ao sonho e para entender os processos de identificação do espectador."
+},
+{
+    "termo": "Psicologia",
+    "definicao": "Estudo dos processos mentais envolvidos na visão de um filme, como a percepção de movimento, a atenção e a memória do espectador."
+},
+{
+    "termo": "Pudovkin (Vsevolod)",
+    "definicao": "Cineasta e teórico soviético que via na montagem o instrumento essencial do cinema para guiar a atenção e a emoção do público."
+},
+{
+    "termo": "Pulsão escópica",
+    "definicao": "Conceito psicanalítico que designa o prazer de olhar, fundamental para explicar o desejo do espectador de observar o mundo ficcional na tela."
+},
+{
+    "termo": "Punctum",
+    "definicao": "Termo de Roland Barthes para designar um detalhe fortuito em uma imagem que atrai subjetivamente o espectador, provocando uma reação emocional única."
+},
+{
+    "termo": "Puro (Cinema)",
+    "definicao": "Ideal estético que busca um cinema livre de influências do teatro e da literatura, focando exclusivamente no ritmo e na plasticidade das imagens."
+},
+{
+    "termo": "Quadro",
+    "definicao": "O limite físico e simbólico da imagem que define o que está incluído na visão do espectador e o que permanece fora-de-campo."
+},
+{
+    "termo": "Realismo",
+    "definicao": "Ideologia estética baseada na crença de que o cinema deve registrar a realidade de maneira fiel e objetiva, evitando estilizações artificiais."
+},
+{
+    "termo": "Realidade, real",
+    "definicao": "A distinção entre o mundo físico preexistente (real) e a construção cinematográfica que tenta mimetizar essa existência (realidade)."
+},
+{
+    "termo": "Referente",
+    "definicao": "O objeto ou ser real ao qual o signo cinematográfico remete; no documentário, coincide com o real; na ficção, remete ao universo diegético."
+},
+{
+    "termo": "Reflexividade",
+    "definicao": "Propriedade de um filme de remeter a si mesmo, mostrando seu próprio processo de fabricação ou citando o cinema como tema."
+},
+{
+    "termo": "Regra dos 180º",
+    "definicao": "Norma técnica que visa manter a consistência espacial ao filmar uma cena, garantindo que a câmera permaneça de um lado da linha imaginária entre os atores."
+},
+{
+    "termo": "Rema",
+    "definicao": "Signo de possibilidade que representa um objeto apenas em suas qualidades visuais ou sonoras, sem afirmar sua existência real."
+},
+{
+    "termo": "Remake",
+    "definicao": "Filme que utiliza o roteiro de uma obra anterior, servindo como uma nova versão ou uma citação estendida de um clássico."
+},
+{
+    "termo": "Representação",
+    "definicao": "Operação técnica e estética pela qual o cinema substitui seres ou objetos reais por imagens e sons que fazem as suas vezes."
+},
+{
+    "termo": "Retórica",
+    "definicao": "Conjunto de figuras e procedimentos (como a metáfora) utilizados pelo cinema para organizar o discurso e persuadir ou emocionar o espectador."
+},
+{
+    "termo": "Ritmo",
+    "definicao": "Agenciamento temporal resultante da montagem, dos movimentos de câmera e da trilha sonora, que determina a fluidez da narrativa."
+},
+{
+    "termo": "Rocha (Glauber)",
+    "definicao": "Líder do Cinema Novo brasileiro que propunha um cinema de ruptura política e estética, focado na realidade social e na fome como tema."
+},
+{
+    "termo": "Rohmer (Éric)",
+    "definicao": "Cineasta e crítico francês cujos textos defendem a ideia de que cada arte possui uma 'curva' de evolução, valorizando a transparência e o classicismo."
+},
+{
+    "termo": "Rossellini (Roberto)",
+    "definicao": "Teórico e cineasta fundamental do neo-realismo, cuja obra foca na visão global do social e no cinema como ferramenta de conhecimento e reflexão."
+},
+{
+    "termo": "Ruiz (Raoul)",
+    "definicao": "Cineasta que questiona as leis narrativas tradicionais, propondo que a narração no cinema é determinada pelo tipo de imagens produzidas."
+},
+{
+    "termo": "Salto",
+    "definicao": "Tipo de raccord brusco entre dois planos quase idênticos, criando uma descontinuidade temporal ou espacial visível."
+},
+{
+    "termo": "Schefer (Jean Louis)",
+    "definicao": "Teórico que analisa o cinema como uma experiência de percepção direta ligada aos afetos e à memória interna do espectador."
+},
+{
+    "termo": "Segmentação",
+    "definicao": "Processo de decomposição de um filme em unidades menores (planos, cenas ou sequências) para fins de análise técnica ou teórica."
+},
+{
+    "termo": "Semântica",
+    "definicao": "Estudo das significações das palavras e enunciados audiovisuais, analisando como o sentido é construído e recebido no cinema."
+},
+{
+    "termo": "Semiótica",
+    "definicao": "Ciência que estuda os sistemas de signos do cinema, analisando o filme como uma linguagem dotada de códigos visuais, sonoros e gráficos."
+},
+{
+    "termo": "Significante/significado",
+    "definicao": "Noção de linguística onde o significante é a face material (imagem/som) e o significado é o conceito ou ideia que essa face representa."
+},
+{
+    "termo": "Simbólico",
+    "definicao": "Registro da linguagem e da lei na teoria lacaniana que organiza a realidade e o desejo do sujeito através de signos."
+},
+{
+    "termo": "Símbolo",
+    "definicao": "Representação de uma ideia abstrata através de uma forma sensível, podendo ser convencional ou baseada em analogias culturais."
+},
+{
+    "termo": "Sinopse",
+    "definicao": "Resumo conciso do enredo de um filme, destacando os principais conflitos e o arco dos personagens."
+},
+{
+    "termo": "Sintagma",
+    "definicao": "Unidade narrativa formada pela combinação de vários elementos audiovisuais que ocorrem em uma sequência determinada."
+},
+{
+    "termo": "Sistema",
+    "definicao": "Conjunto organizado de princípios, regras e elementos (como a montagem ou o som) que conferem unidade a uma obra cinematográfica."
+},
+{
+    "termo": "Sobre-enquadramento",
+    "definicao": "Técnica que insere um segundo quadro dentro do enquadramento original, criando uma visão emoldurada de um elemento da cena."
+},
+{
+    "termo": "Sociologia",
+    "definicao": "Abordagem que estuda o cinema como instituição social, analisando os processos de produção, o público e as representações coletivas."
+},
+{
+    "termo": "Sonho",
+    "definicao": "Atividade psíquica frequentemente comparada ao cinema devido à natureza visual da experiência e ao estado de passividade do espectador."
+},
+{
+    "termo": "Sonoro (Cinema)",
+    "definicao": "Fase do cinema iniciada no final da década de 1920 que integrou falas, ruídos e música diretamente à banda de imagem."
+},
+{
+    "termo": "Star system",
+    "definicao": "Sistema industrial que promove atores como ídolos de massa para garantir o sucesso comercial e a identificação do público com os filmes."
+},
+{
+    "termo": "Subjetivo (Plano)",
+    "definicao": "Enquadramento que simula o olhar de um personagem, fazendo com que o espectador veja a cena a partir do ponto de vista dele."
+},
+{
+    "termo": "Sublime",
+    "definicao": "Categoria estética que evoca sentimentos de grandeza, terror ou arrebatamento diante do que ultrapassa a medida humana."
+},
+{
+    "termo": "Sujeito (Sujet)",
+    "definicao": "Instância que organiza a narração ou o espectador que é posicionado pelo dispositivo cinematográfico como centro da percepção."
+},
+{
+    "termo": "Superposição",
+    "definicao": "Efeito óptico que permite ver duas ou mais imagens simultaneamente no mesmo quadro, criando camadas de significação."
+},
+{
+    "termo": "Suspense",
+    "definicao": "Recurso que visa manter o espectador em um estado de tensão e expectativa através do controle da informação narrativa."
+},
+{
+    "termo": "Sutura",
+    "definicao": "Conceito psicanalítico que explica como o espectador é 'costurado' na narrativa através do jogo de olhares e do campo/contracampo."
+},
+{
+    "termo": "Tarkovski (Andrei)",
+    "definicao": "Cineasta soviético que teorizou o cinema como a arte de 'esculpir o tempo', priorizando o ritmo interno do plano sobre a montagem fragmentada."
+},
+{
+    "termo": "Teatro",
+    "definicao": "Arte dramática que forneceu as bases iniciais de encenação e atuação para o cinema, servindo posteriormente como ponto de diferenciação estética."
+},
+{
+    "termo": "Teatro filmado",
+    "definicao": "Modalidade que registra uma peça teatral com recursos cinematográficos mínimos, preservando a frontalidade e a continuidade da cena original."
+},
+{
+    "termo": "Tema",
+    "definicao": "O assunto central ou a ideia diretriz que organiza os elementos narrativos e estéticos de um filme."
+},
+{
+    "termo": "Tempo",
+    "definicao": "Dimensão fundamental que pode ser tratada como duração física (cronômetro) ou como experiência subjetiva moldada pela narrativa."
+},
+{
+    "termo": "Teorias do cinema",
+    "definicao": "Conjunto de reflexões que buscam explicar a natureza, o funcionamento e os efeitos da arte cinematográfica sobre o indivíduo e a sociedade."
+},
+{
+    "termo": "Terror",
+    "definicao": "Gênero cinematográfico focado em produzir medo, repulsa ou tensão extrema através da representação do bizarro ou do sobrenatural."
+},
+{
+    "termo": "Texto",
+    "definicao": "Noção teórica que considera o filme como um conjunto de signos organizados que podem ser lidos e interpretados como uma obra literária."
+},
+{
+    "termo": "Transparência",
+    "definicao": "Estética do cinema clássico que visa apagar as marcas da filmagem para que o espectador se sinta diante de uma realidade não mediada."
+},
+{
+    "termo": "Underground",
+    "definicao": "Cinema marginal e experimental que rejeita os padrões industriais e comerciais, focando na liberdade de expressão e na subversão política."
+},
+{
+    "termo": "Vestígio (Trace)",
+    "definicao": "Marca ou indício deixado pela passagem de algo, utilizado na análise textual para designar a distância entre o objeto e sua representação."
+},
+{
+    "termo": "Visível",
+    "definicao": "Tudo o que pode ser captado pela visão no espetáculo cinematográfico, constituindo a base da experiência sensorial do público."
+},
+{
+    "termo": "Visual",
+    "definicao": "Esfera do que é visível já organizado por códigos estéticos e linguísticos, transformando a percepção em representação significativa."
+},
+{
+    "termo": "Voz",
+    "definicao": "Conjunto de sons humanos que compõe a banda sonora, podendo ser síncrona, em off ou funcionar como comentário narrativo."
+},
+{
+    "termo": "Worth (Sol)",
+    "definicao": "Antropólogo e cineasta que estudou o cinema como uma ciência da significação visual e ferramenta para o estudo comparativo das culturas."
+},
+{
+    "termo": "Corte móvel",
+    "definicao": "Conceito proposto por Gilles Deleuze para definir simultaneamente a imagem-movimento e o plano cinematográfico, onde o movimento modifica as posições das partes de um conjunto, exprimindo uma mudança no todo."
+},
+{
+    "termo": "Efeito",
+    "definicao": "Designa todo procedimento, por vezes exagerado ou forçado, destinado a produzir um certo efeito de ordem emocional no espectador, como efeitos de luz ou de montagem."
+},
+{
+    "termo": "Exposição (Plano de)",
+    "definicao": "Termo utilizado para designar o 'establishing shot', um plano geralmente aberto no início da cena que permite ao espectador conhecer o conjunto da situação cênica."
+},
+{
+    "termo": "Fora-de-quadro",
+    "definicao": "Espaço da escritura inspirado por Jacques Derrida; refere-se ao espaço que não está na imagem e que, para os formalistas, não deve ser considerado material por denunciar a presença da câmera."
+},
+{
+    "termo": "Imagem-percepção",
+    "definicao": "Uma das modalidades da imagem-movimento de Deleuze que corresponde à figuração da coisa, situando-se entre os polos da percepção subjetiva e objetiva."
+},
+{
+    "termo": "Imagem-pulsão",
+    "definicao": "Modalidade da imagem-movimento de Deleuze situada entre a imagem-ação e a imagem-afeição, característica do naturalismo e de mundos originários."
+},
+{
+    "termo": "Índice",
+    "definicao": "Categoria de signo baseada na conexão dinâmica com o objeto individual, como um rastro ou sintoma que indica uma relação imediata com o mundo."
+},
+{
+    "termo": "Interpretação",
+    "definicao": "Processo de tradução de significados de uma obra para os membros de uma coletividade, visando esclarecer ambiguidades inerentes à linguagem cinematográfica."
+},
+{
+    "termo": "Mito",
+    "definicao": "Fábula ou narrativa imaginária que representa uma ideia idealizada de um ser ou acontecimento, funcionando como um fenômeno de civilização."
+},
+{
+    "termo": "Narrativa (Récit)",
+    "definicao": "O enunciado que assegura a sucessão de acontecimentos reais ou fictícios que são objetos desse discurso e suas diversas relações de oposição ou repetição."
+},
+{
+    "termo": "Paralelo",
+    "definicao": "Tipo de montagem que alterna séries de imagens sem necessariamente haver relação de simultaneidade entre elas, visando confrontar temas ou ideias."
+},
+{
+    "termo": "Panorâmica",
+    "definicao": "Movimento de câmera que consiste na rotação do aparelho em torno de seu próprio eixo, explorando o espaço sem deslocar a base da câmera."
+},
+{
+    "termo": "Pontuação",
+    "definicao": "Conjunto de procedimentos visuais, como fusões e escurecimentos, que servem para marcar transições entre sequências ou segmentos autônomos."
+},
+{
+    "termo": "Reprodução",
+    "definicao": "Ato de registrar fielmente uma coisa existente (documento, obra de arte ou som) visando atingir proximidade sensorial com o modelo original."
+},
+{
+    "termo": "Revistas de cinema",
+    "definicao": "Publicações periódicas dedicadas à crítica e teoria que desempenharam papel fundamental na promoção cultural e intelectual do cinema."
+},
+{
+    "termo": "Sequência",
+    "definicao": "Unidade narrativa composta por um encadeamento de acontecimentos que formam um conjunto fortemente unitário na história contada."
+},
+{
+    "termo": "Significação",
+    "definicao": "Em linguística estrutural, refere-se à relação estabelecida entre o significante (face material) e o significado (conceito) dentro de um sistema de signos."
+},
+{
+    "termo": "Travelling",
+    "definicao": "Movimento de câmera que consiste na translação do eixo do aparelho no espaço, geralmente utilizando suportes como carrinhos, trilhos ou gruas."
+},
+{
+    "termo": "Vertical (Montagem)",
+    "definicao": "Prática de montagem virtual que não se limita a juntar planos linearmente, mas busca reconstruir uma unidade tridimensional e expressiva."
+},
+{
+    "termo": "Vertov (Dziga)",
+    "definicao": "Cineasta soviético que propôs o cinema como instrumento de compreensão e análise do mundo, baseando-se no conceito de 'cine-olho' e na montagem de fatos."
+},
+{
+    "termo":"Aculogia",
+    "definicao":"Conceito de Michel Chion que consagra o estudo dos sons percebidos e das estruturas de percepção sonora, buscando distinguir no objeto sonoro os critérios que o constituem."
+},
+{
+    "termo":"Análise (Textual)",
+    "definicao":"Processo de decomposição e estruturação de um filme que visa chegar a uma explicação de seu funcionamento e razões de ser, podendo envolver descrição, interpretação e atribuição."
+},
+{
+    "termo":"Ancoragem",
+    "definicao":"Função da mensagem linguística (como uma legenda ou diálogo) de fixar a 'cadeia flutuante de significados' de uma imagem, guiando o espectador na escolha de um sentido em detrimento de outros."
+},
+{
+    "termo":"Antropologia",
+    "definicao":"Recurso metodológico que estuda o cinema como uma máquina industrial produtora de imaginário ou como ferramenta para o estudo comparativo das culturas humanas."
+},
+{
+    "termo":"Cinéthique",
+    "definicao":"Revista de cinema fundada em 1969 com o objetivo de promover um cinema de vanguarda que ligava preocupações ideológicas e políticas a questões estéticas e formais."
+},
+{
+    "termo":"Correspondência das artes",
+    "definicao":"Conceito que busca vínculos, equivalências e sínteses entre o cinema e artes tradicionais como pintura, música, arquitetura e poesia."
+},
+{
+    "termo":"Criatorial",
+    "definicao":"Conceito da filmologia que situa a essência do filme no pensamento, seja individual ou coletivo, de seus criadores."
+},
+{
+    "termo":"Cristalino (Regime)",
+    "definicao":"Termo proposto por Gilles Deleuze para designar um caráter do cinema moderno onde ocorre a coexistência de uma imagem atual e uma imagem virtual."
+},
+{
+    "termo":"Cubista (Montagem)",
+    "definicao":"Estilo de montagem onde planos sucessivos 'recobrem' temporalmente a mesma zona do espaço, decompondo a ação em múltiplas facetas, como no cinema de Eisenstein."
+},
+{
+    "termo":"Efeito-ficção",
+    "definicao":"Estado espectatorial particular produzido por filmes narrativos que utilizam a reprodução analógica para suprimir a consciência da narração em prol da imersão na diegese."
+},
+{
+    "termo":"Efeito Kulechov",
+    "definicao":"Fenômeno de montagem onde o sentido de um plano aproximado de um rosto é alterado e contextualizado pelo plano que o sucede, demonstrando o poder da articulação visual."
+},
+{
+    "termo":"Efeito-tela (Effect-écran)",
+    "definicao":"Fenômeno fenomenológico da percepção visual que designa o deslocamento relativo de um objeto em relação a outro situado em planos diferentes."
+},
+{
+    "termo":"Escritura",
+    "definicao":"Procedimento de notação da linguagem por signos que se dirigem à visão, distinguindo-se entre a categoria fonogramática (anota sons) e ideogramática (anota ideias)."
+},
+{
+    "termo":"Espectatorial",
+    "definicao":"Neologismo da filmologia que designa o plano da experiência onde ocorre a intelecção e a estruturação do universo fílmico pelo espectador."
+},
+{
+    "termo":"Especular, Especularidade",
+    "definicao":"Teoria que relaciona a tela de cinema ao 'estágio do espelho' da psicanálise, onde o espectador se identifica com a imagem projetada como uma forma de reconhecimento narcísico."
+},
+{
+    "termo":"Establishing shot",
+    "definicao":"Plano bem aberto, geralmente situado no início de uma cena, que permite ao espectador conhecer o conjunto da situação cênica e a localização dos elementos."
+},
+{
+    "termo":"Expandido (Cinema)",
+    "definicao":"Práticas cinematográficas que ultrapassam a projeção tradicional em salas, envolvendo performances, dança, happenings e o uso de múltiplas telas."
+},
+{
+    "termo":"Focalização",
+    "definicao":"Termo narratológico que designa o foco narrativo ou o ponto de vista a partir do qual a narrativa é apresentada ao espectador em cada instante."
+},
+{
+    "termo":"Imagem-ação",
+    "definicao":"Modalidade da imagem-movimento de Deleuze que corresponde à figuração do ato ou comportamento, típica do realismo e do cinema de gênero."
+},
+{
+    "termo":"Imagem-afeição",
+    "definicao":"Modalidade da imagem-movimento ligada ao rosto em primeiro plano, que extrai uma qualidade ou potência e a fixa em uma expressão intensa."
+},
+{
+    "termo":"Imagem-percepção",
+    "definicao":"Modalidade da imagem-movimento que figura a percepção de uma coisa, situando-se entre o polo subjetivo e o objetivo."
+},
+{
+    "termo":"Imagem-pulsão",
+    "definicao":"Categoria situada entre a ação e a afeição, ligada ao naturalismo, que figura mundos originários e comportamentos instintivos."
+},
+{
+    "termo":"Implant",
+    "definicao":"Termo técnico de roteiro que consiste no estabelecimento antecipado de um detalhe ou personagem que será útil para a lógica da intriga em um momento posterior."
+},
+{
+    "termo":"Impressão de realidade",
+    "definicao":"Efeito produzido pela analogia da imagem e convenções representativas que leva o espectador a aceitar o mundo fílmico como crível e real."
+},
+{
+    "termo":"Índice",
+    "definicao":"Categoria de signo que possui uma conexão física ou dinâmica com o objeto individual que representa, funcionando como um rastro ou sintoma."
+},
+{
+    "termo":"Indireto livre",
+    "definicao":"Forma estilística onde o autor expressa seus próprios pensamentos e visão de mundo através da boca ou do ponto de vista de um personagem."
+},
+{
+    "termo":"Inserções",
+    "definicao":"Introdução de um elemento estrangeiro (como letreiros ou planos detalhe) em uma continuidade visual para fornecer ênfase ou informação."
+},
+{
+    "termo":"Intervalo",
+    "definicao":"Distância entre duas imagens ou sons sucessivos que serve como medida de movimento, ritmo e criação de sentido na montagem."
+},
+{
+    "termo":"Junção",
+    "definicao":"Termo de Robert Bresson para a articulação precisa entre planos, focando na relação interna entre imagens e sons em vez de efeitos poéticos externos."
+},
+{
+    "termo":"Lexia",
+    "definicao":"Unidade mínima de significação em uma análise textual, constituindo um segmento do filme decupado pelo analista para estudo."
+},
+{
+    "termo":"Métrica",
+    "definicao":"Conceito de montagem baseado nas medidas materiais dos planos, organizando-os segundo proporções matemáticas ou rítmicas determinadas."
+},
+{
+    "termo":"Migração",
+    "definicao":"Ideia de que certas formas ou temas visuais retornam em obras diferentes através do tempo, servindo a novos programas estéticos."
+},
+{
+    "termo":"Modalidade",
+    "definicao":"Categoria da enunciação que qualifica o enunciado fílmico em termos de possibilidade, necessidade, contingência ou certeza."
+},
+{
+    "termo":"Mostração",
+    "definicao":"Nível da instância narrativa que consiste em apresentar a ação em atos através dos movimentos dos atores e da câmera na cena."
+},
+{
+    "termo":"Obraznost’",
+    "definicao":"Termo russo que designa o caráter de imagem de uma representação, conferindo-lhe um valor simbólico e metafórico que vai além do registro literal."
+},
+{
+    "termo":"Ocularização",
+    "definicao":"Relação estabelecida entre o que a câmera mostra e o que um personagem supostamente vê dentro do universo da história."
+},
+{
+    "termo":"Patético",
+    "definicao":"Aquilo que desperta sentimentos intensos ou violentos no espectador através da força da ação dramática ou da representação emocional."
+},
+{
+    "termo":"Rema",
+    "definicao":"Signo de possibilidade que representa um objeto apenas por suas qualidades (visuais ou sonoras), sem afirmar sua existência real ou concreta."
+},
+{
+    "termo":"Sincrese",
+    "definicao":"Fenômeno de concomitância entre um evento sonoro pontual e um evento visual pontual, criando uma percepção unitária de ambos."
+},
+{
+    "termo":"Arquespectador",
+    "definicao":"Neologismo utilizado para designar modelos psicológicos variáveis de espectador, criados a partir da análise da relação entre quem assiste e a obra cinematográfica."
+},
+{
+    "termo":"Cine-caneta (Caméra-stylo)",
+    "definicao":"Conceito de Alexandre Astruc que defende o cinema como um meio de escrita tão flexível e sutil quanto a linguagem escrita, permitindo ao cineasta expressar pensamentos abstratos."
+},
+{
+    "termo":"Cine-olho (Vertov)",
+    "definicao":"Conceito de Dziga Vertov que propõe a câmera como um instrumento de análise e compreensão do mundo, funcionando como um 'super-olho' que organiza os fatos através da montagem."
+},
+{
+    "termo":"Cinema da cena",
+    "definicao":"Estética que valoriza a continuidade dramática e a integridade do espaço-tempo em planos longos, permitindo que a realidade se revele sem fragmentação excessiva."
+},
+{
+    "termo":"Cinema de artista",
+    "definicao":"Variedade de cinema experimental caracterizada por repousar sobre estruturas temporais rigorosas e medidas métricas simples, frequentemente focada na plasticidade."
+},
+{
+    "termo":"Cinema do plano",
+    "definicao":"Estética que acentua o valor do plano breve e da sucessão rápida de imagens, priorizando o ritmo da montagem sobre a continuidade da cena teatral."
+},
+{
+    "termo":"Cinema subterrâneo",
+    "definicao":"Tradução da expressão 'underground'; designa o cinema independente e experimental que surgiu fora dos padrões industriais, especialmente em Nova York nos anos 60."
+},
+{
+    "termo":"Construção da interpretação",
+    "definicao":"Processo de planejamento dos enquadramentos e dos movimentos de atores no cenário para determinar a decupagem móvel da realidade ficcional."
+},
+{
+    "termo":"Construção do gesto",
+    "definicao":"Técnica teórica de Eisenstein que consiste na decomposição mental das atitudes do corpo em um repertório de posições expressivas para guiar o ator."
+},
+{
+    "termo":"Escoptofilia",
+    "definicao":"Pulsão ligada ao prazer de olhar que fundamenta a fascinação do espectador pelo espetáculo cinematográfico e seu desejo de observar o universo diegético."
+},
+{
+    "termo":"Estágio do espelho",
+    "definicao":"Conceito lacaniano aplicado ao cinema para explicar como a tela funciona como um espelho simbólico onde o espectador se identifica e reconhece sua própria autonomia."
+},
+{
+    "termo":"Estilo coletivo",
+    "definicao":"Instrumento de generalização e classificação que agrupa obras por características comuns de produção, períodos históricos ou escolas cinematográficas."
+},
+{
+    "termo":"Estilo pessoal",
+    "definicao":"Manifestação da liberdade e da singularidade do cineasta como autor, expressa através de escolhas técnicas e formais recorrentes em sua obra."
+},
+{
+    "termo":"Fato espectatorial",
+    "definicao":"Momento específico no vocabulário da filmologia em que ocorre a intelecção e estruturação do universo fílmico na psique do espectador."
+},
+{
+    "termo":"Identificação primária",
+    "definicao":"Processo psicológico no qual o espectador se identifica com o próprio dispositivo cinematográfico e com o olhar onividente da câmera."
+},
+{
+    "termo":"Identificação secundária",
+    "definicao":"Processo em que o espectador investe afetos em personagens da ficção, assemelhando-se a eles ou reconhecendo neles traços de sua própria subjetividade."
+},
+{
+    "termo":"Iconologia",
+    "definicao":"Estudo das representações de um objeto e sua extensão nas artes, visando analisar as obras como signos significativos de um determinado momento cultural."
+},
+{
+    "termo":"Índice sonoro materializante",
+    "definicao":"Qualidade do som que permite ao ouvinte sentir a natureza material da fonte sonora e a história concreta de sua emissão física."
+},
+{
+    "termo":"Intervalo-medida",
+    "definicao":"Na teoria de Vertov, é a distância entre imagens sucessivas que serve como base para o movimento, o ritmo e a criação de sentido na montagem."
+},
+{
+    "termo":"Kinok",
+    "definicao":"Termo de Dziga Vertov para designar o operador de câmera concebido como um observador que utiliza a máquina para analisar a realidade."
+},
+{
+    "termo":"Máquina animista",
+    "definicao":"Conceito de Jean Epstein que descreve o cinema como uma tecnologia capaz de transfigurar a realidade e dotar o mundo de uma inteligência visual própria."
+},
+{
+    "termo":"Master shot (Plano mestre)",
+    "definicao":"Plano de conjunto, geralmente situado no início de uma cena, que serve como referência para situar espacialmente todos os planos parciais seguintes."
+},
+{
+    "termo":"Métrica pura",
+    "definicao":"Construção fílmica baseada estritamente na sensação sentida pelo espectador através das proporções matemáticas e temporais dos planos."
+},
+{
+    "termo":"Mostração cênica",
+    "definicao":"Primeiro nível da instância narrativa que apresenta a ação através dos movimentos físicos de atores e câmera, organizando a visibilidade da cena."
+},
+{
+    "termo":"Mundo originário",
+    "definicao":"Conceito de Deleuze ligado ao naturalismo, que figura espaços elementares onde as pulsões e comportamentos instintivos dominam a ação."
+},
+{
+    "termo":"Narrador",
+    "definicao":"Instância abstrata e organizadora do relato cinematográfico, distinta do autor real, responsável por conduzir a narração e o ponto de vista."
+},
+{
+    "termo":"Ontologia da imagem",
+    "definicao":"Reflexão filosófica sobre a natureza essencial da imagem cinematográfica e sua capacidade intrínseca de revelar ou 'embalsamar' a realidade física."
+},
+{
+    "termo":"Persistência retiniana",
+    "definicao":"Fenômeno fisiológico de retenção momentânea de imagens na retina que, embora insuficiente para explicar o movimento, auxilia na percepção da ilusão fílmica."
+},
+{
+    "termo":"Plano de situação",
+    "definicao":"Equivalente ao 'establishing shot'; plano aberto que localiza os elementos e personagens no espaço antes do início da ação detalhada."
+},
+{
+    "termo":"Plano espectatorial",
+    "definicao":"Nível subjetivo da experiência cinematográfica onde o espectador avalia o ritmo e a duração do filme de acordo com sua percepção pessoal."
+},
+{
+    "termo":"Política dos autores",
+    "definicao":"Teoria crítica que reivindica para o diretor o estatuto de autor único e responsável pela assinatura estética e intelectual da obra."
+},
+{
+    "termo":"Pulsão invocante",
+    "definicao":"Componente pulsional ligado ao som e à voz, que contribui para a fascinação e para a imersão sensorial do espectador na banda sonora."
+},
+{
+    "termo":"Pulsão sádica",
+    "definicao":"Componente agressivo que pode acompanhar o desejo de olhar, manifestando-se na vontade de dominar ou analisar minuciosamente o objeto observado."
+},
+{
+    "termo":"Raccord de olhar",
+    "definicao":"Técnica de montagem que garante a continuidade espacial ao mostrar, no plano seguinte, o objeto que um personagem acabou de olhar."
+},
+{
+    "termo":"Raccord no eixo",
+    "definicao":"Mudança de plano que mantém a câmera na mesma linha de visão, aproximando ou afastando o espectador do objeto sem alterar o ângulo lateral."
+},
+{
+    "termo":"Raccord sobre um movimento",
+    "definicao":"Articulação entre dois planos que utiliza o início de um gesto no primeiro plano e sua conclusão no segundo para suavizar o corte."
+},
+{
+    "termo":"Redução eidética",
+    "definicao":"Método fenomenológico que busca atingir a essência pura de um fenômeno cinematográfico (imagem ou som), abstraindo suas condições acidentais."
+},
+{
+    "termo":"Sobre-enquadramento (Surcadrage)",
+    "definicao":"Uso de elementos do cenário (como janelas ou portas) para criar um segundo quadro dentro da imagem original, emoldurando a ação."
+},
+{
+    "termo":"Studium",
+    "definicao":"Conceito de Roland Barthes que designa o campo cultural, racional e intencional de uma imagem, acessível através da educação e da informação."
+},
+{
+    "termo":"To-be-looked-atness",
+    "definicao":"Conceito da teoria feminista que descreve a construção da imagem feminina no cinema clássico como um objeto feito para ser olhado pelo espectador masculino."
+},
+{
+    "termo":"Unidade de ação",
+    "definicao":"Fragmento da narrativa cinematográfica que preserva a continuidade dramática de um evento dentro de um mesmo tempo e espaço."
+},
+{
+    "termo":"Unidade de duração",
+    "definicao":"Valor temporal atribuído a uma unidade cênica, que pode não coincidir com o tempo cronológico real, mas sim com o tempo dramático."
+},
+{
+    "termo":"A-cinema",
+    "definicao":"Conceito proposto por Jean-François Lyotard para designar um cinema constituído de filmes pulsionais ou 'primários', que se manifestam tanto no plano do roteiro quanto no da própria escritura cinematográfica."
+},
+{
+    "termo":"Aclimação",
+    "definicao":"Período histórico, por volta de 1910, em que obras-primas reconhecidas (como o 'film d’art' francês ou o Expressionismo alemão) foram transportadas para o cinema, conferindo-lhe um pouco de sua aura artística."
+},
+{
+    "termo":"Ato de produção",
+    "definicao":"No campo da enunciação, é o conjunto de operações que dá corpo a um objeto linguístico, transformando virtualidades da língua em uma manifestação concreta no filme."
+},
+{
+    "termo":"Cine-caneta (Caméra-stylo)",
+    "definicao":"Expressão de Alexandre Astruc (1948) que defende que o cinema se torna um meio de escrita tão flexível quanto a linguagem escrita, permitindo ao artista expressar seu pensamento de forma abstrata."
+},
+{
+    "termo":"Cineliteratura",
+    "definicao":"Termo que surge nas reflexões de Stanley Cavell sobre a ontologia do cinema e a relação entre as formas de mídia que transformam as artes de onde procedem."
+},
+{
+    "termo":"Comédia de recasamento",
+    "definicao":"Subgênero da 'screwball comedy' definido por Stanley Cavell, focado em histórias de casais que se separam e, ao longo do filme, redescobrem os motivos para se unirem novamente."
+},
+{
+    "termo":"Destaque",
+    "definicao":"Elemento visual que se sobressai em um fundo ou em uma representação, podendo ser caracterizado pela sua autonomia no quadro ou por um caráter de substância."
+},
+{
+    "termo":"Desdobramento",
+    "definicao":"Processo psicológico e técnico ligado à identificação do espectador, onde a estrutura da filmagem e da ficção permite um jogo de desvelamentos progressivos da cena."
+},
+{
+    "termo":"Estágio do espelho",
+    "definicao":"Conceito da psicanálise lacaniana aplicado ao cinema para explicar como a tela funciona como um espelho onde o espectador se identifica com uma imagem idealizada de si mesmo."
+},
+{
+    "termo":"Estilo romântico do pensamento",
+    "definicao":"Concepção que vê o cinema como a encarnação de um sentimento do mundo por intermédio das figuras de atores em seus movimentos e em seu meio."
+},
+{
+    "termo":"Filme d'art",
+    "definicao":"Movimento francês que, por volta de 1910, buscou elevar o prestígio do cinema ao adaptar peças de teatro e romances célebres interpretados por atores de renome."
+},
+{
+    "termo":"Filme de tese",
+    "definicao":"Categoria de filmes que se dedicam a demonstrar ou defender uma ideia teórica, política ou ideológica específica através da narrativa e da montagem."
+},
+{
+    "termo":"Fisiognomia",
+    "definicao":"Noção de Béla Balázs que se refere à fisionomia 'animada' (em movimento) que o cinema confere tanto a seres humanos quanto a objetos inanimados."
+},
+{
+    "termo":"Geografia irreal",
+    "definicao":"Espaço cinematográfico construído pela montagem que faz o espectador crer que dois cenários distantes entre si na realidade física pertencem ao mesmo lugar diegético."
+},
+{
+    "termo":"Gramatologia",
+    "definicao":"Termo de Jacques Derrida aplicado à análise textual que rejeita o privilégio da fala sobre a escrita, vendo o cinema como uma 'inscrição gráfica' original."
+},
+{
+    "termo":"Imagem-cristal",
+    "definicao":"Conceito de Gilles Deleuze para designar a coexistência de uma imagem atual e de uma imagem virtual, onde o tempo é trabalhado como uma memória que atua no presente."
+},
+{
+    "termo":"Im-signos",
+    "definicao":"Termo de Pier Paolo Pasolini para designar os signos da própria realidade que o cinema 'escreve' e organiza para formar sua linguagem cinematográfica."
+},
+{
+    "termo":"Indicialidade",
+    "definicao":"Qualidade do cinema de funcionar como um índice ou rastro do mundo real, fundamentando a crença do espectador na existência física do que é mostrado."
+},
+{
+    "termo":"Letreiros",
+    "definicao":"Recurso visual comum no cinema mudo para fornecer informações narrativas, diálogos ou marcar elipses temporais entre as cenas."
+},
+{
+    "termo":"Linguagem sem língua",
+    "definicao":"Conceito de Christian Metz que define o cinema como um sistema de comunicação que produz sentido sem possuir as regras rígidas de uma gramática verbal tradicional."
+},
+{
+    "termo":"Lógica narrativa",
+    "definicao":"Conjunto de regras internas que garantem a coerência e a sucessão de acontecimentos dentro de um filme, permitindo que o espectador compreenda o relato."
+},
+{
+    "termo":"Logocentrismo",
+    "definicao":"Tendência teórica que considera a fala ou o pensamento verbal como o centro e a origem de todo o sentido, frequentemente contestada pelas teorias da escrita fílmica."
+},
+{
+    "termo":"Mostrador de imagens (Grand imagier)",
+    "definicao":"Conceito de Albert Laffay para designar a instância invisível e abstrata que organiza a sucessão de imagens e sons para contar a história."
+},
+{
+    "termo":"Ostranienié",
+    "definicao":"Termo dos formalistas russos para 'estranhamento'; técnica de tornar o habitual ou o cotidiano estranho para despertar a percepção crítica do espectador."
+},
+{
+    "termo":"Plano americano",
+    "definicao":"Escala de enquadramento que mostra o personagem do joelho para cima, técnica muito comum no gênero faroeste para destacar a presença física e a ação."
+},
+{
+    "termo":"Plano médio",
+    "definicao":"Escala de enquadramento que corta o personagem na altura da cintura, equilibrando o destaque ao ator com a visibilidade do cenário."
+},
+{
+    "termo":"Primeiríssimo plano",
+    "definicao":"Enquadramento muito fechado que isola uma parte do rosto ou um detalhe específico de um objeto, ocupando todo o quadro da tela."
+},
+{
+    "termo":"Sétima arte",
+    "definicao":"Fórmula criada por Ricciotto Canudo em 1911 para definir o cinema como uma síntese das artes do espaço (plásticas) e das artes do tempo (rítmicas)."
+},
+{
+    "termo":"Sintagma descritivo",
+    "definicao":"Unidade narrativa onde a relação cronológica entre os planos é de simultaneidade, servindo para descrever um lugar ou uma situação sem avanço na ação."
+},
+{
+    "termo":"Sintagma paralelo",
+    "definicao":"Sequência de montagem que alterna dois ou mais temas sem que haja uma relação cronológica necessária entre eles, visando a comparação de ideias."
+},
+{
+    "termo":"Utopia (Cinema Total)",
+    "definicao":"Conceito de André Bazin que descreve o desejo histórico do cinema de se tornar uma reprodução integral e perfeita da realidade sensível."
+},
+{
+    "termo":"Argumento (Signo)",
+    "definicao":"Na classificação semiótica de Peirce aplicada ao cinema, representa o signo da lei ou da razão, sendo uma das três categorias fundamentais ao lado do ícone e do índice."
+},
+{
+    "termo":"Cine-olho (Kinoglaz)",
+    "definicao":"Conceito de Dziga Vertov que define o cinema como um instrumento de descoberta do mundo através da lente, funcionando como um 'super-olho' que organiza a realidade pela montagem."
+},
+{
+    "termo":"Cinema estrutural",
+    "definicao":"Variedade de cinema experimental que repousa sobre estruturas temporais rigorosas e rígidas, assemelhando-se à montagem métrica pura."
+},
+{
+    "termo":"Dicisigno",
+    "definicao":"Termo derivado da semiótica de Peirce e utilizado por Deleuze para designar o estatuto 'líquido' da percepção na imagem, onde o signo afirma uma existência real."
+},
+{
+    "termo":"Escritura fonogramática",
+    "definicao":"Categoria de escrita cinematográfica que se dedica a anotar e organizar os sons da linguagem falada no filme."
+},
+{
+    "termo":"Escritura ideogramática",
+    "definicao":"Categoria de escrita no cinema que busca anotar diretamente as ideias e conceitos visuais, aproximando-se da montagem intelectual."
+},
+{
+    "termo":"Fisiognomia animada",
+    "definicao":"Conceito de Béla Balázs que se refere à capacidade do cinema de conferir uma expressão facial e espiritual tanto a seres humanos quanto a objetos inanimados através do movimento."
+},
+{
+    "termo":"Focalização externa",
+    "definicao":"Modalidade narrativa em que o narrador diz menos do que o personagem sabe, baseando-se em uma visão objetiva 'de fora' dos acontecimentos."
+},
+{
+    "termo":"Focalização interna",
+    "definicao":"Técnica em que a narrativa é filtrada pela consciência de um personagem, podendo o narrador dizer apenas o que esse personagem sabe."
+},
+{
+    "termo":"Focalização zero",
+    "definicao":"Forma de narrativa clássica em que o narrador é onisciente, sabendo mais do que qualquer personagem individual sobre a trama."
+},
+{
+    "termo":"Geografia irreal",
+    "definicao":"Espaço ficcional criado pela montagem que une lugares fisicamente distantes na realidade para formar uma unidade espacial coerente na tela."
+},
+{
+    "termo":"In-signos",
+    "definicao":"Neologismo de Pier Paolo Pasolini para designar os signos da própria realidade que o cineasta 'escreve' ao filmar, compondo a língua escrita da realidade."
+},
+{
+    "termo":"Máquina animista",
+    "definicao":"Conceito de Jean Epstein que descreve o cinematógrafo como uma tecnologia dotada de uma inteligência própria, capaz de transfigurar o real."
+},
+{
+    "termo":"Montagem métrica",
+    "definicao":"Etapa básica da montagem baseada estritamente no comprimento material dos planos, seguindo proporções matemáticas ou rítmicas simples."
+},
+{
+    "termo":"Montagem rítmica",
+    "definicao":"Tipo de montagem que organiza a duração dos planos levando em conta o conteúdo visual das imagens e o movimento interno da cena."
+},
+{
+    "termo":"Montagem tonal",
+    "definicao":"Construção que utiliza uma metáfora musical para buscar a homogeneidade emocional e semântica em todo um segmento do filme."
+},
+{
+    "termo":"Mostração cênica",
+    "definicao":"O primeiro nível da instância narrativa que consiste em mostrar a ação através dos movimentos dos atores e da câmera, organizando a visibilidade espacial."
+},
+{
+    "termo":"Ocularização externa",
+    "definicao":"Relação em que a câmera mostra a cena de um ponto de vista que não é o de um personagem, funcionando como uma testemunha invisível."
+},
+{
+    "termo":"Ocularização interna",
+    "definicao":"Técnica que estabelece uma relação direta entre o que a câmera mostra e o que um personagem vê, simulando o seu olhar diegético."
+},
+{
+    "termo":"Ontologia da imagem",
+    "definicao":"Reflexão sobre a natureza essencial da imagem cinematográfica como um 'embalsamamento do tempo' e sua capacidade de revelar a verdade do real."
+},
+{
+    "termo":"Profilílmico",
+    "definicao":"Tudo o que está colocado diante da câmera para ser filmado, constituindo a realidade física que será transformada em imagem cinematográfica."
+},
+{
+    "termo":"Rema",
+    "definicao":"Na classificação de Peirce, é um signo de possibilidade que representa um objeto apenas por suas qualidades, sem afirmar sua existência concreta."
+},
+{
+    "termo":"Sintagma alternado",
+    "definicao":"Série cronológica de planos que expressa simultaneidade temporal através da alternância regular entre duas ou mais ações."
+},
+{
+    "termo": "A-cinema",
+    "definicao": "Conceito proposto por Jean-François Lyotard para designar um cinema constituído de filmes pulsionais ou 'primários', que se manifestam tanto no plano do roteiro quanto no da própria escritura cinematográfica."
+},
+{
+    "termo": "Aclimação",
+    "definicao": "Período histórico, por volta de 1910, em que obras-primas das belas-artes (como o 'film d’art' francês ou o Expressionismo alemão) foram transportadas para o cinema, conferindo-lhe prestígio e aura artística."
+},
+{
+    "termo": "Aculogia",
+    "definicao": "Estudo dos sons percebidos e das estruturas de percepção sonora, buscando distinguir no objeto sonoro os critérios que o constituem."
+},
+{
+    "termo": "Ancoragem",
+    "definicao": "Função da mensagem linguística de fixar a 'cadeia flutuante de significados' de uma imagem, guiando o espectador na escolha de um sentido e na ignorância de outros."
+},
+{
+    "termo": "Argumento (Signo)",
+    "definicao": "Na classificação semiótica de Peirce aplicada ao cinema, representa o signo da lei ou da razão, sendo uma das três categorias fundamentais ao lado do ícone e do índice."
+},
+{
+    "termo": "Arquespectador",
+    "definicao": "Neologismo utilizado para designar modelos psicológicos variáveis de espectador, criados a partir da análise da relação entre quem assiste e a obra cinematográfica."
+},
+{
+    "termo": "Ato de produção",
+    "definicao": "No campo da enunciação, refere-se ao conjunto de operações que dá corpo a um objeto linguístico, transformando as virtualidades da língua em uma manifestação concreta no filme."
+},
+{
+    "termo": "Autoria",
+    "definicao": "Noção que relaciona as obras ao diretor como uma expressão de sua vontade pessoal ou de uma assinatura artística reconhecível."
+},
+{
+    "termo": "Cinéfilo",
+    "definicao": "Indivíduo cuja relação com o cinema é fundada no desejo de visão e compreensão das obras, estando ligada a pulsões complementares como a escópica e a invocante."
+},
+{
+    "termo": "Cineliteratura",
+    "definicao": "Termo utilizado por Stanley Cavell para designar formas de mídia que transformam as artes de onde procedem, situando o cinema como uma nova mídia para temas clássicos."
+},
+{
+    "termo": "Cinema de artista",
+    "definicao": "Variedade de cinema experimental caracterizada por repousar sobre estruturas temporais rigorosas e medidas métricas simples, frequentemente focada na plasticidade pura."
+},
+{
+    "termo": "Cinéthique",
+    "definicao": "Revista de cinema fundada em 1969 com o objetivo de promover uma vanguarda que ligasse preocupações ideológicas e políticas marxistas a questões estéticas."
+},
+{
+    "termo": "Comédia de recasamento",
+    "definicao": "Subgênero da 'screwball comedy' definido por Stanley Cavell, focado em histórias de casais que se separam e, ao longo da narrativa, redescobrem motivos para se unirem."
+},
+{
+    "termo": "Dicisigno",
+    "definicao": "Termo derivado da semiótica de Peirce para designar o estatuto de percepção na imagem onde o signo afirma uma existência real e concreta."
+},
+{
+    "termo": "Escritura fonogramática",
+    "definicao": "Categoria de escrita cinematográfica que se dedica à anotação e organização dos sons da linguagem falada no filme."
+},
+{
+    "termo": "Escritura ideogramática",
+    "definicao": "Categoria de escrita no cinema que busca anotar diretamente as ideias e conceitos visuais, aproximando-se da montagem intelectual."
+},
+{
+    "termo": "Fato espectatorial",
+    "definicao": "Momento específico no vocabulário da filmologia em que ocorre a intelecção e a estruturação do universo fílmico na psique do espectador."
+},
+{
+    "termo": "Filme d'art",
+    "definicao": "Movimento francês que buscou elevar o prestígio do cinema ao adaptar peças de teatro e romances interpretados por atores de renome da época."
+},
+{
+    "termo": "Fisiognomia animada",
+    "definicao": "Conceito de Béla Balázs sobre a capacidade do cinema de conferir uma expressão facial e espiritual (animada) tanto a seres humanos quanto a objetos através do movimento."
+},
+{
+    "termo": "Geografia irreal",
+    "definicao": "Espaço ficcional construído pela montagem que faz o espectador crer que lugares fisicamente distantes na realidade pertencem ao mesmo local na história."
+},
+{
+    "termo": "Gramatologia",
+    "definicao": "Termo de Jacques Derrida aplicado à análise textual que rejeita o privilégio da fala sobre a escrita, vendo o cinema como uma inscrição gráfica original."
+},
+{
+    "termo": "Imagem-cristal",
+    "definicao": "Conceito de Gilles Deleuze para designar a coexistência de uma imagem atual e de uma virtual, onde o tempo é trabalhado como uma memória que atua no presente."
+},
+{
+    "termo": "Im-signos",
+    "definicao": "Termo de Pasolini para os signos da própria realidade que o cinema 'escreve' e organiza para formar sua linguagem escrita da realidade."
+},
+{
+    "termo": "Indicialidade",
+    "definicao": "Qualidade do cinema de funcionar como um índice ou rastro do mundo real, fundamentando a crença do espectador na existência física do que é mostrado."
+},
+{
+    "termo": "Letreiros",
+    "definicao": "Sucessões gráficas utilizadas, especialmente no cinema mudo, para explicitar o sentido das imagens ou fornecer diálogos e informações narrativas."
+},
+{
+    "termo": "Linguagem sem língua",
+    "definicao": "Conceito de Christian Metz que define o cinema como um sistema de comunicação que produz sentido sem possuir as regras rígidas de uma gramática verbal."
+},
+{
+    "termo": "Lógica narrativa",
+    "definicao": "Conjunto de regras internas que garantem a coerência e a sucessão de acontecimentos dentro de um filme, permitindo que o relato seja compreendido."
+},
+{
+    "termo": "Logocentrismo",
+    "definicao": "Tendência teórica de considerar a fala ou o pensamento verbal como o centro de todo o sentido, frequentemente contestada pelas teorias da escritura fílmica."
+},
+{
+    "termo": "Mostração cênica",
+    "definicao": "Primeiro nível da instância narrativa que apresenta a ação através dos movimentos físicos de atores e da câmera, organizando a visibilidade da cena."
+},
+{
+    "termo": "Ostranienié",
+    "definicao": "Técnica de estranhamento dos formalistas russos que visa tornar o cotidiano estranho para despertar a percepção crítica e estética do espectador."
+},
+{
+    "termo": "Plano americano",
+    "definicao": "Escala de enquadramento que mostra o personagem do joelho para cima, técnica comum para destacar a presença física e a ação."
+},
+{
+    "termo": "Plano médio",
+    "definicao": "Escala de enquadramento que corta o personagem na altura da cintura, equilibrando o destaque ao ator com a visibilidade do cenário."
+},
+{
+    "termo": "Primeiríssimo plano",
+    "definicao": "Enquadramento extremamente fechado que isola uma parte do rosto ou um detalhe de um objeto, ocupando todo o quadro da tela."
+},
+{
+    "termo": "Sétima arte",
+    "definicao": "Fórmula de Ricciotto Canudo que define o cinema como a síntese das artes do espaço (plásticas) e das artes do tempo (rítmicas)."
+},
+{
+    "termo": "Sincrese",
+    "definicao": "Fenômeno de concomitância entre um evento sonoro pontual e um evento visual pontual, criando uma percepção unitária de ambos."
+},
+{
+    "termo": "Sintagma descritivo",
+    "definicao": "Unidade narrativa onde a relação entre os planos é de simultaneidade temporal, servindo para descrever um ambiente sem que a ação avance."
+},
+{
+    "termo": "Sintagma paralelo",
+    "definicao": "Montagem que alterna temas diferentes sem relação cronológica necessária entre eles, visando a comparação simbólica ou intelectual de ideias."
+},
+{
+    "termo": "Utopia (Cinema Total)",
+    "definicao": "Desejo histórico e teórico pela criação de uma reprodução integral, perfeita e imediata da realidade através dos meios técnicos cinematográficos."
+},
+{
+    "termo": "Abstrato",
+    "definicao": "Resultante de uma operação mental que considera uma qualidade de uma coisa negligenciando as outras; no cinema, refere-se a obras que visam exprimir diretamente ideias sensações em vez de descrever objetos ou personagens concretos."
+},
+{
+    "termo": "Acusmático",
+    "definicao": "Adjetivo de origem grega que designa um som cuja fonte não é vista pelo espectador, sendo apresentado separadamente da imagem por intermédio do alto-falante."
+},
+{
+    "termo": "Actante",
+    "definicao": "Designa a estrutura narrativa profunda de uma personagem de ficção, permitindo dissociar a lógica das ações da lógica das personagens; um actante pode ser preenchido por várias personagens ou vice-versa."
+},
+{
+    "termo": "Adaptação",
+    "definicao": "Noção ligada à especificidade e fidelidade, consistindo no processo de transposição de uma obra (como um romance ou peça de teatro) para o roteiro e para o filme."
+},
+{
+    "termo": "Afílmico",
+    "definicao": "Designa o que existe no mundo usual independentemente de qualquer relação com a arte fílmica; na filmologia, é o critério distintivo do documentário que representa a realidade preexistente."
+},
+{
+    "termo": "Alternância",
+    "definicao": "Princípio geral de montagem que consiste na repetição regular de um plano ou grupo de planos (estrutura ABABAB), frequentemente utilizada para representar perseguições ou relações de simultaneidade temporal."
+},
+{
+    "termo": "Análise (Textual)",
+    "definicao": "Atividade que produz comentários críticos através da descrição, estruturação, interpretação e atribuição, visando chegar a uma explicação da lógica interna da obra analisada."
+},
+{
+    "termo": "Analogia",
+    "definicao": "Semelhança parcial entre coisas; no cinema, o valor analógico das imagens é consubstancial à sua reprodução da realidade, embora seja uma construção artificial e convencional."
+},
+{
+    "termo": "Ancoragem",
+    "definicao": "Função da mensagem linguística (como legendas ou diálogos) de fixar o sentido de uma imagem, guiando o leitor/espectador na escolha de um entre vários significados possíveis."
+},
+{
+    "termo": "Animação",
+    "definicao": "Formas de cinema em que o movimento aparente é produzido pela fotografia de desenhos ou objetos um por um, cujo encadeamento gera a impressão de movimento em virtude do efeito phi."
+},
+{
+    "termo": "Antropologia",
+    "definicao": "Recurso metodológico que estuda o cinema como uma máquina industrial produtora de imaginário ou como instrumento para o estudo comparativo de atitudes e comportamentos de diferentes culturas."
+},
+{
+    "termo": "Arnheim (Rudolf)",
+    "definicao": "Psicólogo e historiador da arte que propôs uma estética e psicologia do cinema baseada na teoria da Gestalt, defendendo que o cinema só é arte quando supera a deficiência da reprodução mecânica do real."
+},
+{
+    "termo": "Arte",
+    "definicao": "Noção definida sob três perspectivas pertinentes ao cinema: a institucional (aprovada por instituições), a intentional (vontade do artista de fazer arte) e a estética (capaz de provocar sensações ou emoções)."
+},
+{
+    "termo": "Ator",
+    "definicao": "Personagem de uma peça ou filme que desempenha um papel, distinguindo-se entre o ator 'sincero' (que sente a emoção) e o ator capaz de simular emoções tecnicamente."
+},
+{
+    "termo": "Atração",
+    "definicao": "Elemento forte e autônomo de espetáculo que interrompe o curso da ação para provocar um abalo sensorial no espectador, conceito fundamental na teoria da montagem de Eisenstein."
+},
+{
+    "termo": "Audiovisual",
+    "definicao": "Termo que designa obras que mobilizam simultaneamente imagens e sons, procedendo das 'indústrias do audiovisual' e de seus meios de produção."
+},
+{
+    "termo": "Autor",
+    "definicao": "Noção problemática no cinema por ser uma arte coletiva; designa a instância responsável pela criação da obra, sendo valorizada pela 'política dos autores' da Nouvelle Vague."
+},
+{
+    "termo": "Aventura",
+    "definicao": "Gênero cinematográfico que designa o que vai acontecer, de início literário e desenvolvido por autores como Jules Verne, focado em narrativas de ação e peripécias."
+},
+{
+    "termo": "Banda imagem, banda som",
+    "definicao": "Suportes físicos e técnicos; a banda imagem contém apenas a representação visual, enquanto a banda som (sound track) é o suporte unicamente da pista sonora."
+},
+{
+    "termo": "Barroco",
+    "definicao": "Termo que conota o bizarro e o estranhamento, caracterizando uma arte ornamentada e extravagante; no cinema, manifesta-se em estilos visualmente complexos e preciosistas."
+},
+{
+    "termo": "Bloqueio simbólico",
+    "definicao": "Expressão que designa uma característica da narrativa cinematográfica clássica ligada à presença simbólica da figura do Pai ou da Lei como motor do itinerário do herói."
+},
+{
+    "termo": "Burlesco",
+    "definicao": "Gênero fundado na multiplicação e encadeamento de gags, com performances físicas perfeitas de atores como Keaton e Chaplin, analisando as pulsões através do figurativo."
+},
+{
+    "termo": "Caligarismo",
+    "definicao": "Designação para o efeito e influência do filme 'O gabinete do Doutor Caligari', recobrindo a imitação dos traços formais expressionistas como o grafismo e o desequilíbrio da imagem."
+},
+{
+    "termo": "Caligrafismo",
+    "definicao": "Arte da escritura dotada formalmente de propriedades estéticas, usada para designar uma corrente italiana dos anos 1940 focada em pesquisas plásticas e temas históricos."
+},
+{
+    "termo": "Câmera",
+    "definicao": "Instrumento de visão e trabalho comparado ao olho humano; nas teorias realistas é um registro objetivo do pró-fílmico, enquanto nas formalistas é um foco de construção de estilo."
+},
+{
+    "termo": "Campo",
+    "definicao": "A imagem de filme percebida como uma superfície plana e, simultaneamente, como um fragmento de espaço em três dimensões limitado pelas bordas do quadro."
+},
+{
+    "termo": "Caverna (Alegoria da)",
+    "definicao": "Mito platônico retomado para descrever o dispositivo cinematográfico, onde os espectadores são como prisioneiros que veem sombras projetadas em uma parede."
+},
+{
+    "termo": "Cena",
+    "definicao": "Espaço dramático ou unidade de ação cinematográfica que guarda o vestígio do valor espacial da encenação, permitindo respeitar a continuidade dramática."
+},
+{
+    "termo": "Cenografia",
+    "definicao": "Arte de projetar e instalar os cenários onde são representados os lugares; no cinema, amplia-se para definir as relações entre personagens e a arquitetura dos lugares."
+},
+{
+    "termo": "Cinema total",
+    "definicao": "Utopia da década de 1940 de uma cinematografia capaz de reproduzir integralmente não apenas imagens e sons, mas todas as sensações humanas (olfativas, táteis)."
+},
+{
+    "termo": "Cinema-verdade",
+    "definicao": "Expressão ligada a Edgar Morin e Jean Rouch para designar um tipo de cinema documental que utiliza novas técnicas leves e concebe a câmera como instrumento de revelação da verdade."
+},
+{
+    "termo": "Cinematismo",
+    "definicao": "Neologismo de Eisenstein para designar o caráter 'cinematográfico' de algumas obras de arte, como pinturas que buscam representar o movimento e a ação."
+},
+{
+    "termo": "Citação",
+    "definicao": "Reprodução textual de um enunciado preexistente no cinema, que pode variar de homenagens pontuais a remakes inteiros, estabelecendo relações intertextuais."
+},
+{
+    "termo": "Clássico (cinema)",
+    "definicao": "Período da história do cinema regido por uma norma estética de transparência e narração linear, consolidado pela indústria hollywoodiana até meados dos anos 1950."
+},
+{
+    "termo": "Código",
+    "definicao": "Sistema de correspondências, convencional ou natural, entre um signo e uma significação; Christian Metz distingue códigos específicos do cinema e códigos culturais."
+},
+{
+    "termo": "Comédia",
+    "definicao": "Gênero definido por uma intriga entre personagens de baixa condição social, provida de um final feliz e destinada a provocar o riso no espectador."
+},
+{
+    "termo": "Composição",
+    "definicao": "Organização da superfície da imagem, incluindo o arranjo das luzes, sombras, cores e a colocação de personagens para criar uma 'atmosfera afetiva' na cena."
+},
+{
+    "termo": "Conotação",
+    "definicao": "Conjunto de valores afetivos e significados secundários que o leitor ou espectador associa à leitura literal de uma mensagem ou imagem."
+},
+{
+    "termo": "Construção do quadro (Mise en cadre)",
+    "definicao": "Termo de Eisenstein para a determinação dos enquadramentos sucessivos, sendo correlativa de uma modificação da realidade com fins de enquadramento plástico."
+},
+{
+    "termo": "Conteúdo",
+    "definicao": "Fatos ou conhecimentos pelos quais a obra de arte é enriquecida e que podem ser apreciados independentemente de suas qualidades estéticas."
+},
+{
+    "termo": "Contínuo (e Descontínuo)",
+    "definicao": "O cinema repousa na produção da descontinuidade (fotogramas sucessivos) para gerar a ilusão de um fluxo contínuo de movimento e tempo."
+},
+{
+    "termo": "Contracampo",
+    "definicao": "Figura de decupagem que supõe uma alternância com um plano anterior, frequentemente chamado de 'campo', sendo a base da montagem clássica de diálogos."
+},
+{
+    "termo": "Cor",
+    "definicao": "Elemento técnico e estético que evoluiu de processos manuais de coloração para sistemas industriais, sendo usado para fins de realismo ou expressividade simbólica."
+},
+{
+    "termo": "Corte seco",
+    "definicao": "Passagem direta de um plano a outro sem o uso de efeitos ópticos de transição (como fusão), sendo um traço característico da modernidade cinematográfica."
+},
+{
+    "termo": "Decupagem",
+    "definicao": "Instrumento de trabalho que consiste no planejamento da realização dos filmes e na estrutura do filme como seguimento de planos e sequências."
+},
+{
+    "termo": "Défilement",
+    "definicao": "Designa o desenrolar físico da película no interior do projetor ou da câmera, determinando a velocidade e o ritmo da percepção do filme."
+},
+{
+    "termo": "Desenquadramento",
+    "definicao": "Enquadramento dinâmico que resulta de um movimento de excentricidade, rejeitando as bordas do quadro para salientar a tensão visual."
+},
+{
+    "termo": "Diegese",
+    "definicao": "Universo ficcional representado; o significado longínquo do filme considerado em bloco, incluindo o tempo e o espaço implicados na narrativa."
+},
+{
+    "termo": "Distanciamento",
+    "definicao": "Efeito que torna a obra estranha ou alheia ao espectador, visando produzir uma distância crítica e política em relação à história contada."
+},
+{
+    "termo": "Documentário",
+    "definicao": "Gênero que estrutura a instituição cinematográfica desde as origens, caracterizado por um contrato de veracidade e pela representação da realidade não ficcional."
+},
+{
+    "termo": "Duração",
+    "definicao": "Medida do tempo fílmico percebida pelo espectador, determinada pela relação entre o tempo do desenvolvimento narrativo e o tempo cronológico da projeção."
+},
+{
+    "termo": "Economia",
+    "definicao": "Estudo do cinema como setor produtivo, analisando mercados, estratégias de empresas, capitais e o impacto da indústria nos estilos artísticos."
+},
+{
+    "termo": "Efeito",
+    "definicao": "Procedimento técnico ou estético destinado a produzir uma reação emocional ou sensorial específica no espectador (ex: efeito de luz, de montagem)."
+},
+{
+    "termo": "Efeito phi",
+    "definicao": "Fenômeno psicológico que permite ao cérebro interpretar uma sucessão de imagens estáticas como um movimento contínuo e dotado de vida."
+},
+{
+    "termo": "Elipse",
+    "definicao": "Recurso narrativo que omite certos acontecimentos da história, exigindo que o espectador preencha mentalmente o intervalo entre dois momentos apresentados."
+}
+]
